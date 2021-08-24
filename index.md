@@ -5,91 +5,143 @@ keywords: index
 
 # Key articles in pediatric critical care medicine
 
-The goal of this document is to serve as a bibliography and index to core articles in critical care medicine, accessible to Columbia University / Morgan Stanley Children's Hospital of New York (CHONY) PICU Fellows. 
-
-We are going to divide by subject headings
+The goal of this document is to serve as a bibliography and index for core articles in critical care medicine, accessible to Columbia University / Morgan Stanley Children's Hospital of New York (CHONY) PICU Fellows. 
 
 ## ARDS, mechanical ventilation, and lung injury
 
-* [@Lamm1994] [Prone positioning mechanism to improves oxygenation 1994.pdf](Prone positioning mechanism to improves oxygenation 1994.pdf)
-* [@Meduri1998]
-* [@TheARDSNetwork2000]
-* [@NationalHeartLung2004]
-* [@Taylor2004]
-* [@Pillow2005]
-* [@Gattinoni2005]
-* [@NationalHeartLung2006]
-* [@Mercat2008]
-* [@Khemani2009]
-* [@Peek2009]
-* [@Ranieri2012]
+* Meduri, G. Umberto, et al. **“Effect of Prolonged Methylprednisolone Therapy in Unresolving Acute Respiratory Distress Syndrome.”** JAMA, vol. 280, no. 2, July 1998, p. 159, doi:10.1001/jama.280.2.159. 
+    * [Meduri Steroids in ARDS 1998.pdf](Meduri Steroids in ARDS 1998.pdf)
+    * Small, single center RCT of methylprednisolone in ARDS. Very controversial. Showed improvement in mortality, organ dysfunction scores, and successful extubation. Subsequent studies have failed to replicate this, and shown rebound worsening after steroids were stopped.
+<br /><br />
 
-* Lamm, W. J., et al. **“Mechanism by Which the Prone Position Improves Oxygenation in Acute Lung Injury.”** American Journal of Respiratory and Critical Care Medicine, vol. 150, no. 1, July 1994, pp. 184–93, doi:10.1164/ajrccm.150.1.8025748.
+* The ARDS Network. **“Ventilation with Lower Tidal Volumes as Compared with Traditional Tidal Volumes for Acute Lung Injury and the Acute Respiratory Distress Syndrome.”** New England Journal of Medicine, vol. 342, no. 18, May 2000, pp. 1301–08, doi:10.1056/NEJM200005043421801. 
+    * [ARDSNet Low-TV Ventilation 2000.pdf](ARDSNet Low-TV Ventilation 2000.pdf)
+    * Ground-breaking study of low (6mL/kg) versus standard (at the time, 12mL/kg) tidal volume ventilation in ARDS, showing mortality of 31% vs nearly 39% in the two study arms.
+<br /><br />
 
-* Meduri, G. Umberto, et al. **“Effect of Prolonged Methylprednisolone Therapy in Unresolving Acute Respiratory Distress Syndrome.”** JAMA, vol. 280, no. 2, July 1998, p. 159, doi:10.1001/jama.280.2.159.
+* National Heart, Lung, and Blood Institute Acute Respiratory Distress Syndrome (ARDS) Clinical Trials Network. **“Higher versus Lower Positive End-Expiratory Pressures in Patients with the Acute Respiratory Distress Syndrome.”** New England Journal of Medicine, vol. 351, no. 4, July 2004, pp. 327–36, doi:10.1056/NEJMoa032193. 
+    * [ARDSNET High vs Low PEEP 2004.pdf](ARDSNET High vs Low PEEP 2004.pdf)
+    * Negative trial. Used low TV ventilation for all patients and plateau pressures below 30cm of H2O. PEEP titrated based on FiO2 level. No difference in mortality based on high PEEP (starting at 12, max 22-24) versus low PEEP (starting at 5, max 18-24) groups.
+<br /><br />
 
-* The ARDS Network. **“Ventilation with Lower Tidal Volumes as Compared with Traditional Tidal Volumes for Acute Lung Injury and the Acute Respiratory Distress Syndrome.”** New England Journal of Medicine, vol. 342, no. 18, May 2000, pp. 1301–08, doi:10.1056/NEJM200005043421801.
+* Taylor, Robert W., et al. **“Low-Dose Inhaled Nitric Oxide in Patients.”** Journal of the American Medical Association, vol. 291, no. 13, 2004, pp. 1603–09. 
+    * [Taylor iNO for ARDS 2004.pdf](Taylor iNO for ARDS 2004.pdf)
+    * Negative trial. Low-dose iNO (5ppm) versus placebo did not impove ventilator-free days. There was a transient increase in oxygenation in the iNO group.
+<br /><br />
 
-* National Heart, Lung, and Blood Institute Acute Respiratory Distress Syndrome (ARDS) Clinical Trials Network. **“Higher versus Lower Positive End-Expiratory Pressures in Patients with the Acute Respiratory Distress Syndrome.”** New England Journal of Medicine, vol. 351, no. 4, July 2004, pp. 327–36, doi:10.1056/NEJMoa032193.
+* Gattinoni, Luciano, and Antonio Pesenti. **“The Concept of ‘Baby Lung.’”** Intensive Care Medicine, vol. 31, no. 6, June 2005, pp. 776–84, doi:10.1007/s00134-005-2627-z. 
+    * [Gattinoni The concept of “baby lung” 2005.pdf](Gattinoni The concept of “baby lung” 2005.pdf)
+    * Description by Gattinoni (ARDS and ventilation guru) of why low tidal volume ventilation is thought to be beneficial, as well as mechanisms of volutrauma and barotrauma, based on the finding that heterogeneous lung disease in ARDS renders the patient with a functional "baby lung." .
+<br /><br />
 
-* Taylor, Robert W., et al. **“Low-Dose Inhaled Nitric Oxide in Patients.”** Journal of the American Medical Association, vol. 291, no. 13, 2004, pp. 1603–09.
+* Pillow, J. Jane. **“High-Frequency Oscillatory Ventilation: Mechanisms of Gas Exchange and Lung Mechanics.”** Critical Care Medicine, vol. 33, no. Supplement, Mar. 2005, pp. S135–41, doi:10.1097/01.CCM.0000155789.52984.B7. 
+    * [Pillow - 2005 - High-frequency oscillatory ventilation Mechanisms of gas exchange and lung mechanics.pdf](Pillow - 2005 - High-frequency oscillatory ventilation Mechanisms of gas exchange and lung mechanics.pdf)
+    * Excellent review on the mechanisms of gas exchange (at least what we understand) in HFOV.
+<br /><br />
 
-* Gattinoni, Luciano, and Antonio Pesenti. **“The Concept of ‘Baby Lung.’”** Intensive Care Medicine, vol. 31, no. 6, June 2005, pp. 776–84, doi:10.1007/s00134-005-2627-z.
+* National Heart, Lung, and Blood Institute Acute Respiratory Distress Syndrome (ARDS) Clinical Trials Network. **“Comparison of Two Fluid-Management Strategies in Acute Lung Injury.”** New England Journal of Medicine, vol. 354, no. 24, June 2006, pp. 2564–75, doi:10.1056/NEJMoa062200. 
+    * [FACTT Fluids in ARDS 2006.pdf](FACTT Fluids in ARDS 2006.pdf)
+    * Conservative versus liberal fluid administration strategies in ARDS. Mortality at 60 days was not significantly different between groups. Oxygenation index, lung injury score, and ventilator free days were improved with more conservative fluid strategy.
+<br /><br />
 
-* Pillow, J. Jane. **“High-Frequency Oscillatory Ventilation: Mechanisms of Gas Exchange and Lung Mechanics.”** Critical Care Medicine, vol. 33, no. Supplement, Mar. 2005, pp. S135–41, doi:10.1097/01.CCM.0000155789.52984.B7.
+* Mercat, Alain, et al. **“Positive End-Expiratory Pressure Setting in Adults With Acute Lung Injury and Acute Respiratory Distress Syndrome.”** JAMA, vol. 299, no. 6, Feb. 2008, p. 646, doi:10.1001/jama.299.6.646. 
+    * [Express Low vs Recruitment PEEP in ARDS 2008.pdf](Express Low vs Recruitment PEEP in ARDS 2008.pdf)
+    * PEEP was set empirically in the 5-9 range (minimal distension), or else titrated for a plateau pressure of 28-30 to achieve an open, recruited lung. No difference in mortality was observed, but ventilator-free days and several markers of lung function were improved in the targeted PEEP group..
+<br /><br />
 
-* National Heart, Lung, and Blood Institute Acute Respiratory Distress Syndrome (ARDS) Clinical Trials Network. **“Comparison of Two Fluid-Management Strategies in Acute Lung Injury.”** New England Journal of Medicine, vol. 354, no. 24, June 2006, pp. 2564–75, doi:10.1056/NEJMoa062200.
+* Khemani, Robinder G., et al. **“Effect of Tidal Volume in Children with Acute Hypoxemic Respiratory Failure.”** Intensive Care Medicine, vol. 35, no. 8, 2009, pp. 1428–37, doi:10.1007/s00134-009-1527-z. 
+    * [Tidal volume in children with acute hypoxemic respiratory failure.pdf](Tidal volume in children with acute hypoxemic respiratory failure.pdf)
+    * Observational study in children with ARDS and ALI according to the definitions at the time, who were ventilated with lung-protective strategies. After adjusting for confounders, tidal volume did not have any association with mortality for children who had tidal volumes in the 6 to 10mL/kg range..
+<br /><br />
 
-* Mercat, Alain, et al. **“Positive End-Expiratory Pressure Setting in Adults With Acute Lung Injury and Acute Respiratory Distress Syndrome.”** JAMA, vol. 299, no. 6, Feb. 2008, p. 646, doi:10.1001/jama.299.6.646.
+* Peek, Giles J., et al. **“Efficacy and Economic Assessment of Conventional Ventilatory Support versus Extracorporeal Membrane Oxygenation for Severe Adult Respiratory Failure (CESAR): A Multicentre Randomised Controlled Trial.”** The Lancet, vol. 374, no. 9698, Elsevier Ltd, Oct. 2009, pp. 1351–63, doi:10.1016/S0140-6736(09)61069-2. 
+    * [CESAR ECMO 2009.pdf](CESAR ECMO 2009.pdf)
+    * Multicenter RCT of adults with severe ARDS, randomized to conventional mechanical ventilation versus referral to an ECMO center (not necessarily receiving ECMO). Being managed at an ECMO center (not necessarily receiving ECMO) was associated with improvement in the composite outcome of mortality or severe disability..
+<br /><br />
 
-* Khemani, Robinder G., et al. **“Effect of Tidal Volume in Children with Acute Hypoxemic Respiratory Failure.”** Intensive Care Medicine, vol. 35, no. 8, 2009, pp. 1428–37, doi:10.1007/s00134-009-1527-z.
+* Ranieri, V. Marco, et al. **“Acute Respiratory Distress Syndrome: The Berlin Definition.”** JAMA - Journal of the American Medical Association, vol. 307, no. 23, 2012, pp. 2526–33, doi:10.1001/jama.2012.5669. 
+    * [Berlin ARDS Definition 2012.pdf](Berlin ARDS Definition 2012.pdf.
+<br /><br />
 
-* Peek, Giles J., et al. **“Efficacy and Economic Assessment of Conventional Ventilatory Support versus Extracorporeal Membrane Oxygenation for Severe Adult Respiratory Failure (CESAR): A Multicentre Randomised Controlled Trial.”** The Lancet, vol. 374, no. 9698, Elsevier Ltd, Oct. 2009, pp. 1351–63, doi:10.1016/S0140-6736(09)61069-2.
+* Willson, Douglas F., et al. **“Pediatric Calfactant in Acute Respiratory Distress Syndrome Trial.”** Pediatric Critical Care Medicine, vol. 14, no. 7, 2013, pp. 657–65, doi:10.1097/PCC.0b013e3182917b68. 
+    * [Willson Surfactant PARDS 2013.pdf](Willson Surfactant PARDS 2013.pdf.
+<br /><br />
 
-* Ranieri, V. Marco, et al. **“Acute Respiratory Distress Syndrome: The Berlin Definition.”** JAMA - Journal of the American Medical Association, vol. 307, no. 23, 2012, pp. 2526–33, doi:10.1001/jama.2012.5669.
+* Young, Duncan, et al. **“High-Frequency Oscillation for Acute Respiratory Distress Syndrome.”** New England Journal of Medicine, vol. 368, no. 9, Feb. 2013, pp. 806–13, doi:10.1056/NEJMoa1215716. 
+    * [OSCAR HFOV 2013.pdf](OSCAR HFOV 2013.pdf.
+<br /><br />
 
-* Willson, Douglas F., et al. **“Pediatric Calfactant in Acute Respiratory Distress Syndrome Trial.”** Pediatric Critical Care Medicine, vol. 14, no. 7, 2013, pp. 657–65, doi:10.1097/PCC.0b013e3182917b68.
+* Guérin, Claude, et al. **“Prone Positioning in Severe Acute Respiratory Distress Syndrome.”** New England Journal of Medicine, vol. 368, no. 23, June 2013, pp. 2159–68, doi:10.1056/NEJMoa1214103. 
+    * [PROSEVA Prone Positioning 2013.pdf](PROSEVA Prone Positioning 2013.pdf.
+<br /><br />
 
-* Young, Duncan, et al. **“High-Frequency Oscillation for Acute Respiratory Distress Syndrome.”** New England Journal of Medicine, vol. 368, no. 9, Feb. 2013, pp. 806–13, doi:10.1056/NEJMoa1215716.
+* Ferguson, Niall D., et al. **“High-Frequency Oscillation in Early Acute Respiratory Distress Syndrome.”** New England Journal of Medicine, vol. 368, no. 9, Feb. 2013, pp. 795–805, doi:10.1056/NEJMoa1215554. 
+    * [OSCILLATE HFOV 2013.pdf](OSCILLATE HFOV 2013.pdf.
+<br /><br />
 
-* Guérin, Claude, et al. **“Prone Positioning in Severe Acute Respiratory Distress Syndrome.”** New England Journal of Medicine, vol. 368, no. 23, June 2013, pp. 2159–68, doi:10.1056/NEJMoa1214103.
+* de Jager, Pauline, et al. **“Tidal Volume and Mortality in Mechanically Ventilated Children.”** Critical Care Medicine, vol. 42, no. 12, 2014, pp. 2461–72, doi:10.1097/CCM.0000000000000546. 
+    * [Tidal Volume and Mortality in Critically Ill Children 2014.pdf](Tidal Volume and Mortality in Critically Ill Children 2014.pdf.
+<br /><br />
 
-* Ferguson, Niall D., et al. **“High-Frequency Oscillation in Early Acute Respiratory Distress Syndrome.”** New England Journal of Medicine, vol. 368, no. 9, Feb. 2013, pp. 795–805, doi:10.1056/NEJMoa1215554.
+* Rimensberger, Peter C., and Ira M. Cheifetz. **“Ventilatory Support in Children With Pediatric Acute Respiratory Distress Syndrome.”** Pediatric Critical Care Medicine, vol. 16, 2015, pp. S51–60, doi:10.1097/PCC.0000000000000433. 
+    * [PALICC Pediatric ARDS Guidelines for Ventilation  2015.pdf](PALICC Pediatric ARDS Guidelines for Ventilation  2015.pdf.
+<br /><br />
 
-* de Jager, Pauline, et al. **“Tidal Volume and Mortality in Mechanically Ventilated Children.”** Critical Care Medicine, vol. 42, no. 12, 2014, pp. 2461–72, doi:10.1097/CCM.0000000000000546.
+* Amato, Marcelo B. P., et al. **“Driving Pressure and Survival in the Acute Respiratory Distress Syndrome.”** New England Journal of Medicine, vol. 372, no. 8, Feb. 2015, pp. 747–55, doi:10.1056/NEJMsa1410639. 
+    * [Amato Driving Pressure in ARDS 2015.pdf](Amato Driving Pressure in ARDS 2015.pdf.
+<br /><br />
 
-* Rimensberger, Peter C., and Ira M. Cheifetz. **“Ventilatory Support in Children With Pediatric Acute Respiratory Distress Syndrome.”** Pediatric Critical Care Medicine, vol. 16, 2015, pp. S51–60, doi:10.1097/PCC.0000000000000433.
+* Slutsky, Arthur S. **“History of Mechanical Ventilation. From Vesalius to Ventilator-Induced Lung Injury.”** American Journal of Respiratory and Critical Care Medicine, vol. 191, no. 10, May 2015, pp. 1106–15, doi:10.1164/rccm.201503-0421PP. 
+    * [History of Mechanical Ventilation 2015.pdf](History of Mechanical Ventilation 2015.pdf.
+<br /><br />
 
-* Amato, Marcelo B. P., et al. **“Driving Pressure and Survival in the Acute Respiratory Distress Syndrome.”** New England Journal of Medicine, vol. 372, no. 8, Feb. 2015, pp. 747–55, doi:10.1056/NEJMsa1410639.
+* Jouvet, Philippe, et al. **“Pediatric Acute Respiratory Distress Syndrome: Consensus Recommendations from the Pediatric Acute Lung Injury Consensus Conference.”** Pediatric Critical Care Medicine, vol. 16, no. 5, 2015, pp. 428–39, doi:10.1097/PCC.0000000000000350. 
+    * [PALICC ARDS Definition 2015.pdf](PALICC ARDS Definition 2015.pdf.
+<br /><br />
 
-* Slutsky, Arthur S. **“History of Mechanical Ventilation. From Vesalius to Ventilator-Induced Lung Injury.”** American Journal of Respiratory and Critical Care Medicine, vol. 191, no. 10, May 2015, pp. 1106–15, doi:10.1164/rccm.201503-0421PP.
+* Sud, Sachin, et al. **“High-Frequency Oscillatory Ventilation versus Conventional Ventilation for Acute Respiratory Distress Syndrome.”** Cochrane Database of Systematic Reviews, edited by Sachin Sud, vol. 4, no. 4, John Wiley & Sons, Ltd, Apr. 2016, p. CD004085, doi:10.1002/14651858.CD004085.pub4. 
+    * [ARDS HFOV vs conventional ventilation Cochrane 2016.pdf](ARDS HFOV vs conventional ventilation Cochrane 2016.pdf.
+<br /><br />
 
-* Jouvet, Philippe, et al. **“Pediatric Acute Respiratory Distress Syndrome: Consensus Recommendations from the Pediatric Acute Lung Injury Consensus Conference.”** Pediatric Critical Care Medicine, vol. 16, no. 5, 2015, pp. 428–39, doi:10.1097/PCC.0000000000000350.
+* Meduri, G. Umberto, et al. **“Prolonged Glucocorticoid Treatment Is Associated with Improved ARDS Outcomes: Analysis of Individual Patients’ Data from Four Randomized Trials and Trial-Level Meta-Analysis of the Updated Literature.”** Intensive Care Medicine, vol. 42, no. 5, Springer Berlin Heidelberg, 2016, pp. 829–40, doi:10.1007/s00134-015-4095-4. 
+    * [Meduri Steroids ARDS Prolonged Therapy 2016.pdf](Meduri Steroids ARDS Prolonged Therapy 2016.pdf.
+<br /><br />
 
-* Sud, Sachin, et al. **“High-Frequency Oscillatory Ventilation versus Conventional Ventilation for Acute Respiratory Distress Syndrome.”** Cochrane Database of Systematic Reviews, edited by Sachin Sud, vol. 4, no. 4, John Wiley & Sons, Ltd, Apr. 2016, p. CD004085, doi:10.1002/14651858.CD004085.pub4.
+* Gattinoni, Luciano, et al. **“The Future of Mechanical Ventilation: Lessons from the Present and the Past.”** Critical Care, vol. 21, no. 1, Critical Care, 2017, p. 183, doi:10.1186/s13054-017-1750-x. 
+    * [Mechanical ventilation future lessons from past and present 2017.pdf](Mechanical ventilation future lessons from past and present 2017.pdf.
+<br /><br />
 
-* Meduri, G. Umberto, et al. **“Prolonged Glucocorticoid Treatment Is Associated with Improved ARDS Outcomes: Analysis of Individual Patients’ Data from Four Randomized Trials and Trial-Level Meta-Analysis of the Updated Literature.”** Intensive Care Medicine, vol. 42, no. 5, Springer Berlin Heidelberg, 2016, pp. 829–40, doi:10.1007/s00134-015-4095-4.
+* Meade, Maureen O., et al. **“Severity of Hypoxemia and Effect of High-Frequency Oscillatory Ventilation in Acute Respiratory Distress Syndrome.”** American Journal of Respiratory and Critical Care Medicine, vol. 196, no. 6, Sept. 2017, pp. 727–33, doi:10.1164/rccm.201609-1938OC. 
+    * [ARDS HFOV and Severity of Hypoxemia 2017.pdf](ARDS HFOV and Severity of Hypoxemia 2017.pdf.
+<br /><br />
 
-* Gattinoni, Luciano, et al. **“The Future of Mechanical Ventilation: Lessons from the Present and the Past.”** Critical Care, vol. 21, no. 1, Critical Care, 2017, p. 183, doi:10.1186/s13054-017-1750-x.
+* Barbaro, Ryan P., et al. **“Does Extracorporeal Membrane Oxygenation Improve Survival in Pediatric Acute Respiratory Failure?”** American Journal of Respiratory and Critical Care Medicine, vol. 197, no. 9, 2018, pp. 1177–86, doi:10.1164/rccm.201709-1893OC. 
+    * [Barbaro ECMO for PARDS 2018.pdf](Barbaro ECMO for PARDS 2018.pdf.
+<br /><br />
 
-* Meade, Maureen O., et al. **“Severity of Hypoxemia and Effect of High-Frequency Oscillatory Ventilation in Acute Respiratory Distress Syndrome.”** American Journal of Respiratory and Critical Care Medicine, vol. 196, no. 6, Sept. 2017, pp. 727–33, doi:10.1164/rccm.201609-1938OC.
+* Khemani, Robinder G., et al. **“Positive End-Expiratory Pressure Lower Than the ARDS Network Protocol Is Associated with Higher Pediatric Acute Respiratory Distress Syndrome Mortality.”** American Journal of Respiratory and Critical Care Medicine, vol. 198, no. 1, July 2018, pp. 77–89, doi:10.1164/rccm.201707-1404OC. 
+    * [ARDS pARDS PEEP Lower than guidelines associated with mortality 2018.pdf](ARDS pARDS PEEP Lower than guidelines associated with mortality 2018.pdf.
+<br /><br />
 
-* Barbaro, Ryan P., et al. **“Does Extracorporeal Membrane Oxygenation Improve Survival in Pediatric Acute Respiratory Failure?”** American Journal of Respiratory and Critical Care Medicine, vol. 197, no. 9, 2018, pp. 1177–86, doi:10.1164/rccm.201709-1893OC.
+* Combes, Alain, et al. **“Extracorporeal Membrane Oxygenation for Severe Acute Respiratory Distress Syndrome.”** New England Journal of Medicine, vol. 378, no. 21, 2018, pp. 1965–75, doi:10.1056/nejmoa1800385. 
+    * [EOLIA ECMO 2018.pdf](EOLIA ECMO 2018.pdf.
+<br /><br />
 
-* Khemani, Robinder G., et al. **“Positive End-Expiratory Pressure Lower Than the ARDS Network Protocol Is Associated with Higher Pediatric Acute Respiratory Distress Syndrome Mortality.”** American Journal of Respiratory and Critical Care Medicine, vol. 198, no. 1, July 2018, pp. 77–89, doi:10.1164/rccm.201707-1404OC.
+* Meduri, G. Umberto, et al. **“An Exploratory Reanalysis of the Randomized Trial on Efficacy of Corticosteroids as Rescue Therapy for the Late Phase of Acute Respiratory Distress Syndrome.”** Critical Care Medicine, vol. 46, no. 6, Lippincott Williams and Wilkins, 2018, pp. 884–91, doi:10.1097/CCM.0000000000003021. 
+    * [Meduri Steroids ARDS re-analysis 2018.pdf](Meduri Steroids ARDS re-analysis 2018.pdf.
+<br /><br />
 
-* Combes, Alain, et al. **“Extracorporeal Membrane Oxygenation for Severe Acute Respiratory Distress Syndrome.”** New England Journal of Medicine, vol. 378, no. 21, 2018, pp. 1965–75, doi:10.1056/nejmoa1800385.
+* National Heart, Lung, and Blood Institute PETAL Clinical Trials Network. **“Early Neuromuscular Blockade in the Acute Respiratory Distress Syndrome.”** New England Journal of Medicine, vol. 380, no. 21, 2019, pp. 1997–2008, doi:10.1056/nejmoa1901686. 
+    * [ROSE Paralytic ARDS 2019.pdf](ROSE Paralytic ARDS 2019.pdf.
+<br /><br />
 
-* Meduri, G. Umberto, et al. **“An Exploratory Reanalysis of the Randomized Trial on Efficacy of Corticosteroids as Rescue Therapy for the Late Phase of Acute Respiratory Distress Syndrome.”** Critical Care Medicine, vol. 46, no. 6, Lippincott Williams and Wilkins, 2018, pp. 884–91, doi:10.1097/CCM.0000000000003021.
-
-* National Heart, Lung, and Blood Institute PETAL Clinical Trials Network. **“Early Neuromuscular Blockade in the Acute Respiratory Distress Syndrome.”** New England Journal of Medicine, vol. 380, no. 21, 2019, pp. 1997–2008, doi:10.1056/nejmoa1901686.
-
-* Macintyre, Neil, et al. **“Fifty Years of Mechanical Ventilation - 1970s to 2020.”** Critical Care Medicine, vol. 49, no. 4, 2021, pp. 558–74, doi:10.1097/CCM.0000000000004894.
-
+* Macintyre, Neil, et al. **“Fifty Years of Mechanical Ventilation - 1970s to 2020.”** Critical Care Medicine, vol. 49, no. 4, 2021, pp. 558–74, doi:10.1097/CCM.0000000000004894. 
+    * [Fifty Years of Mechanical Ventilation 2020.pdf](Fifty Years of Mechanical Ventilation 2020.pdf)
 
 
 
-## List of articles
+
+## Complete bibliography
 
 1. Lamm, W. J., et al. **“Mechanism by Which the Prone Position Improves Oxygenation in Acute Lung Injury.”** _American Journal of Respiratory and Critical Care Medicine_, vol. 150, no. 1, July 1994, pp. 184–93, doi:10.1164/ajrccm.150.1.8025748.
 
