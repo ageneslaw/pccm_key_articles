@@ -1,15 +1,9 @@
 ---
-title: "Key articles in critical care"
-keywords: index
-layout: jekyll-theme-cayman
-theme: jekyll-theme-cayman
+title: 
+    - "Key Articles in Pediatric Critical Care Medicine"
+keywords: 
+    - index
 ...
-
-# Key articles in pediatric critical care medicine
-
-The goal of this document is to serve as a bibliography and index for core articles in critical care medicine, accessible to Columbia University / Morgan Stanley Children's Hospital of New York (CHONY) PICU Fellows. 
-
----
 
 # Articles by topic
 
