@@ -1,7 +1,8 @@
 ---
 title: "Key articles in critical care"
 keywords: index
-layout: cayman
+layout: jekyll-theme-cayman
+theme: jekyll-theme-cayman
 ...
 
 # Key articles in pediatric critical care medicine
