@@ -3,11 +3,38 @@ title:
     - "Key Articles in Pediatric Critical Care Medicine"
 keywords: 
     - index
+sidebar: mydoc_sidebar
 ...
 
-# Articles by topic
 
-### ARDS, mechanical ventilation, and lung injury
+### Table of Contents
+<!-- vscode-markdown-toc -->
+* [ARDS, mechanical ventilation, and lung injury](#ARDSmechanicalventilationandlunginjury)
+* [Cardiothoracic surgery](#Cardiothoracicsurgery)
+* [DKA](#DKA)
+* [Fluid management](#Fluidmanagement)
+* [Glycemic control](#Glycemiccontrol)
+* [Guidelines](#Guidelines)
+* [Long-term outcomes](#Long-termoutcomes)
+* [Miscellaneous](#Miscellaneous)
+* [Negative trials](#Negativetrials)
+* [Nutrition](#Nutrition)
+* [Renal replacement therapy](#Renalreplacementtherapy)
+* [Sedation](#Sedation)
+* [Sepsis](#Sepsis)
+* [Shock](#Shock)
+* [Temperature control](#Temperaturecontrol)
+* [Transfusion](#Transfusion)
+* [Traumatic brain injury](#Traumaticbraininjury)
+* [Complete bibliography](#Completeblibligraphy)
+
+<!-- vscode-markdown-toc-config
+	numbering=false
+	autoSave=false
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->
+
+## <a name='ARDSmechanicalventilationandlunginjury'></a>ARDS, mechanical ventilation, and lung injury
 
 * Meduri, G. Umberto, et al. **“Effect of Prolonged Methylprednisolone Therapy in Unresolving Acute Respiratory Distress Syndrome.”** JAMA, vol. 280, no. 2, July 1998, p. 159, doi:10.1001/jama.280.2.159. 
     * [Meduri Steroids in ARDS 1998.pdf](Meduri Steroids in ARDS 1998.pdf)
@@ -167,82 +194,82 @@ keywords:
 
 ---
 
-### Cardiothoracic surgery
+## <a name='Cardiothoracicsurgery'></a>Cardiothoracic surgery
 
 
 ---
 
-### DKA
+## <a name='DKA'></a>DKA
 
 
 ---
 
-### Fluid management
+## <a name='Fluidmanagement'></a>Fluid management
 
 
 ---
 
-### Glycemic control
+## <a name='Glycemiccontrol'></a>Glycemic control
 
 
 ---
 
-### Guidelines
+## <a name='Guidelines'></a>Guidelines
 
 
 ---
 
-### Long-term outcomes
+## <a name='Long-termoutcomes'></a>Long-term outcomes
 
 
 ---
 
-### Miscellaneous
+## <a name='Miscellaneous'></a>Miscellaneous
 
 
 ---
 
-### Negative trials
+## <a name='Negativetrials'></a>Negative trials
 
 
 ---
 
-### Nutrition
+## <a name='Nutrition'></a>Nutrition
 
 
 ---
 
-### Renal replacement therapy
+## <a name='Renalreplacementtherapy'></a>Renal replacement therapy
 
 
 ---
 
-### Sedation
+## <a name='Sedation'></a>Sedation
 
 
 ---
 
-### Sepsis
+## <a name='Sepsis'></a>Sepsis
 
 
 ---
 
-### Shock 
+## <a name='Shock'></a>Shock 
 
 
 ---
 
-### Temperature control
+## <a name='Temperaturecontrol'></a>Temperature control
 
 
 ---
 
-### Transfusion
+## <a name='Transfusion'></a>Transfusion
 
 
 ---
 
-### Traumatic brain injury
+## <a name='Traumaticbraininjury'></a>Traumatic brain injury
 
 
 ---
@@ -251,7 +278,7 @@ keywords:
 
 
 
-# Complete bibliography
+# <a name='Completeblibligraphy'></a>Complete bibliography
 
 1. Lamm, W. J., et al. **“Mechanism by Which the Prone Position Improves Oxygenation in Acute Lung Injury.”** _American Journal of Respiratory and Critical Care Medicine_, vol. 150, no. 1, July 1994, pp. 184–93, doi:10.1164/ajrccm.150.1.8025748.
 

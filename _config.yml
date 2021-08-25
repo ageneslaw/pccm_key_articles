@@ -21,9 +21,7 @@
 title: pccm_key_articles
 email: asg2195@cumc.columbia.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This document is a bibliography and index for core articles in critical care medicine, accessible to Columbia University / Morgan Stanley Children's Hospital of New York (CHONY) PICU Fellows. 
 baseurl: "/pccm_key_articles/" # the subpath of your site, e.g. /blog
 url: "https://ageneslaw.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gs_law
@@ -33,8 +31,7 @@ github_username:  ageneslaw
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme 
-description: The goal of this document is to serve as a bibliography and index for core articles in critical care medicine, accessible to Columbia University / Morgan Stanley Children's Hospital of New York (CHONY) PICU Fellows. 
+  - jekyll-remote-theme
 
 ---
 
