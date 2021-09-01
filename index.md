@@ -17,7 +17,7 @@ keywords:
 * [Guidelines](#Guidelines)
 * [Long-term outcomes](#Long-termoutcomes)
 * [Miscellaneous](#Miscellaneous)
-* [Negative trials](#Negativetrials)
+* [Negative trials & studies](#Negativetrials)
 * [Nutrition](#Nutrition)
 * [Renal replacement therapy](#Renalreplacementtherapy)
 * [Sedation](#Sedation)
@@ -61,7 +61,7 @@ autoSave=false
   * Excellent review on the mechanisms of gas exchange (at least what we understand) in HFOV.
     <br /><br />
 
-* [Steinberg, Kenneth P., et al.](..\Key Articles in Critical Care\ARDSNET Steroids for ARDS 2006.pdf) **“Efficacy and Safety of Corticosteroids for Persistent Acute Respiratory Distress Syndrome.”** The New England Journal of Medicine, vol. 354, no. 16, Apr. 2006, pp. 1671–84, doi:10.1056/NEJMoa051693.
+* [Steinberg, Kenneth P., et al.](ARDSNET Steroids for ARDS 2006.pdf) **“Efficacy and Safety of Corticosteroids for Persistent Acute Respiratory Distress Syndrome.”** The New England Journal of Medicine, vol. 354, no. 16, Apr. 2006, pp. 1671–84, doi:10.1056/NEJMoa051693.
   * Negative trial. RCT of adults with ARDS for at least 7 days, randomizing to methylprednisolone versus placebo. No difference in 60 day mortality was observed. Methylprednisolone given after 14 days was associated with worsened mortality. Improvements in ventilator-free and shock-free days were observed in the methylprednisolone group, but patients apparently were re-intubated or died later. This is controversial, and the Meduri group has hypothesized that the rapidity of stopping steroids in this trial caused the recrudescence of symptoms. 
     <br /><br />
 
@@ -70,11 +70,11 @@ autoSave=false
     <br /><br />
 
 * [Mercat, Alain, et al.](Express Low vs Recruitment PEEP in ARDS 2008.pdf) **“Positive End-Expiratory Pressure Setting in Adults With Acute Lung Injury and Acute Respiratory Distress Syndrome.”** JAMA, vol. 299, no. 6, Feb. 2008, p. 646, doi:10.1001/jama.299.6.646. 
-  * PEEP was set empirically in the 5-9 range (minimal distension), or else titrated for a plateau pressure of 28-30 to achieve an open, recruited lung. No difference in mortality was observed, but ventilator-free days and several markers of lung function were improved in the targeted PEEP group..
+  * PEEP was set empirically in the 5-9 range (minimal distension), or else titrated for a plateau pressure of 28-30 to achieve an open, recruited lung. No difference in mortality was observed, but ventilator-free days and several markers of lung function were improved in the targeted PEEP group.
     <br /><br />
 
 * [Khemani, Robinder G., et al.](Tidal volume in children with acute hypoxemic respiratory failure.pdf) **“Effect of Tidal Volume in Children with Acute Hypoxemic Respiratory Failure.”** Intensive Care Medicine, vol. 35, no. 8, 2009, pp. 1428–37, doi:10.1007/s00134-009-1527-z. 
-  * Observational study in children with ARDS and ALI according to the definitions at the time, who were ventilated with lung-protective strategies. After adjusting for confounders, tidal volume did not have any association with mortality for children who had tidal volumes in the 6 to 10mL/kg range..
+  * Observational study in children with ARDS and ALI according to the definitions at the time, who were ventilated with lung-protective strategies. After adjusting for confounders, tidal volume did not have any association with mortality for children who had tidal volumes in the 6 to 10mL/kg range.
     <br /><br />
 
 * [Peek, Giles J., et al.](CESAR ECMO 2009.pdf)**“Efficacy and Economic Assessment of Conventional Ventilatory Support versus Extracorporeal Membrane Oxygenation for Severe Adult Respiratory Failure (CESAR): A Multicentre Randomised Controlled Trial.”** The Lancet, vol. 374, no. 9698, Elsevier Ltd, Oct. 2009, pp. 1351–63, doi:10.1016/S0140-6736(09) 61069-2. 
@@ -247,11 +247,79 @@ autoSave=false
 
 ---
 
-## <a name='Negativetrials'></a>Negative trials
+## <a name='Negativetrials'></a>Negative trials & studies
+
+* [Bernard, Gordon R., et al.](PROWESS Activated Protein C 2001.pdf) **“Efficacy and Safety of Recombinant Human Activated Protein C for Severe Sepsis.”** _New England Journal of Medicine_, vol. 344, no. 10, Mar. 2001, pp. 699–709, doi:10.1056/NEJM200103083441001.
+
+* [National Heart, Lung, and Blood Institute Acute Respiratory Distress Syndrome (ARDS) Clinical Trials Network.](ARDSNET High vs Low PEEP 2004.pdf) **“Higher versus Lower Positive End-Expiratory Pressures in Patients with the Acute Respiratory Distress Syndrome.”** New England Journal of Medicine, vol. 351, no. 4, July 2004, pp. 327–36, doi:10.1056/NEJMoa032193. 
+  * [Negative trial. Used low TV ventilation for all patients and plateau pressures below 30cm of H2O. PEEP titrated based on FiO2 level. No difference in mortality based on high PEEP (starting at 12, max 22-24) versus low PEEP (starting at 5, max 18-24) groups.
+    <br /><br />
+
+* [Taylor, Robert W., et al.](Taylor iNO for ARDS 2004.pdf) **“Low-Dose Inhaled Nitric Oxide in Patients.”** Journal of the American Medical Association, vol. 291, no. 13, 2004, pp. 1603–09. 
+  * Negative trial. Low-dose iNO (5ppm) versus placebo did not impove ventilator-free days. There was a transient increase in oxygenation in the iNO group.
+    <br /><br />
+
+* [SAFE Study Investigators.](SAFE Albumin in Septic Shock 2004.pdf) **“A Comparison of Albumin and Saline for Fluid Resuscitation in the Intensive Care Unit.”** _New England Journal of Medicine_, vol. 350, no. 22, May 2004, pp. 2247–56, doi:10.1056/NEJMoa040232.
+
+* [Steinberg, Kenneth P., et al.](ARDSNET Steroids for ARDS 2006.pdf) **“Efficacy and Safety of Corticosteroids for Persistent Acute Respiratory Distress Syndrome.”** The New England Journal of Medicine, vol. 354, no. 16, Apr. 2006, pp. 1671–84, doi:10.1056/NEJMoa051693.
+  * Negative trial. RCT of adults with ARDS for at least 7 days, randomizing to methylprednisolone versus placebo. No difference in 60 day mortality was observed. Methylprednisolone given after 14 days was associated with worsened mortality. Improvements in ventilator-free and shock-free days were observed in the methylprednisolone group, but patients apparently were re-intubated or died later. This is controversial, and the Meduri group has hypothesized that the rapidity of stopping steroids in this trial caused the recrudescence of symptoms. 
+    <br /><br />
+
+* [Nadel, Simon, et al.](RESOLVE Activate Protein C 2007.pdf) **“Drotrecogin Alfa (Activated) in Children with Severe Sepsis: A Multicentre Phase III Randomised Controlled Trial.”** _The Lancet_, vol. 369, no. 9564, Mar. 2007, pp. 836–43, doi:10.1016/S0140-6736(07)60411-5.
+
+* [Khemani, Robinder G., et al.](Tidal volume in children with acute hypoxemic respiratory failure.pdf) **“Effect of Tidal Volume in Children with Acute Hypoxemic Respiratory Failure.”** Intensive Care Medicine, vol. 35, no. 8, 2009, pp. 1428–37, doi:10.1007/s00134-009-1527-z. 
+  * Observational study in children with ARDS and ALI according to the definitions at the time, who were ventilated with lung-protective strategies. After adjusting for confounders, tidal volume did not have any association with mortality for children who had tidal volumes in the 6 to 10mL/kg range..
+    <br /><br />
+
+* [Sprung, Charles L., et al.](CORTICUS Steroids for septic shock 2008.pdf) **“Hydrocortisone Therapy for Patients with Septic Shock.”** _New England Journal of Medicine_, vol. 358, no. 2, Jan. 2008, pp. 111–24, doi:10.1056/NEJMoa071366.
+
+* [Agus, Michael S. D., et al.](SPECS Glycemic Control Pediatric Cardiac Surgery 2012.pdf) **“Tight Glycemic Control versus Standard Care after Pediatric Cardiac Surgery.”** _New England Journal of Medicine_, vol. 367, no. 13, 2012, pp. 1208–19, doi:10.1056/nejmoa1206044.
+
+* [Adelson, P. David, et al.](Cool Kids TBI Hypothermia 2013.pdf) **“Comparison of Hypothermia and Normothermia after Severe Traumatic Brain Injury in Children (Cool Kids): A Phase 3, Randomised Controlled Trial.”** _The Lancet Neurology_, vol. 12, no. 6, Elsevier Ltd, June 2013, pp. 546–53, doi:10.1016/S1474-4422(13)70077-2.
+
+* [Willson, Douglas F., et al.](Willson Surfactant PARDS 2013.pdf) **“Pediatric Calfactant in Acute Respiratory Distress Syndrome Trial.”** Pediatric Critical Care Medicine, vol. 14, no. 7, 2013, pp. 657–65, doi:10.1097/PCC.0b013e3182917b68. 
+  * Negative study. Children with lung injury or ARDS were randomized to receive surfactant versus placebo. The trial was stopped due to futility, with no differences observed in mortality, ventilator-free days, or oxygenation.
+    <br /><br />
+
+* [Young, Duncan, et al.](OSCAR HFOV 2013.pdf) **“High-Frequency Oscillation for Acute Respiratory Distress Syndrome.”** New England Journal of Medicine, vol. 368, no. 9, Feb. 2013, pp. 806–13, doi:10.1056/NEJMoa1215716. 
+  * Negative study. Adults with ARDS were randomized to conventional ventilation versus HFOV. No differences in mortality, ICU length of stay, or hospital length of stay were observed. 
+    <br /><br />
+
+* [The PRoCESS Investigators.](ProCESS EGDT 2014.pdf) **“A Randomized Trial of Protocol-Based Care for Early Septic Shock.”** _New England Journal of Medicine_, vol. 370, no. 18, 2014, pp. 1683–93, doi:10.1056/nejmoa1401602.
+
+* [Moler, Frank W., et al.](THAPCA Hypothermia Cardiac Arrest (Out-of-hospital) 2017.pdf) **“Therapeutic Hypothermia after Out-of-Hospital Cardiac Arrest in Children.”** _New England Journal of Medicine_, vol. 372, no. 20, 2015, pp. 1898–908, doi:10.1056/nejmoa1411480.
+
+* [Mouncey, Paul R., et al.](PROMISE EGDT 2015.pdf) **“Trial of Early, Goal-Directed Resuscitation for Septic Shock.”** _New England Journal of Medicine_, vol. 372, no. 14, 2015, pp. 1301–11, doi:10.1056/nejmoa1500896.
+
+* [de Jager, Pauline, et al.](Tidal Volume and Mortality in Critically Ill Children 2014.pdf) **“Tidal Volume and Mortality in Mechanically Ventilated Children.”** Critical Care Medicine, vol. 42, no. 12, 2014, pp. 2461–72, doi:10.1097/CCM.0000000000000546. 
+  * Meta-analysis of 8 RCTs and observational studies of tidal volumes in children receiving invasive mechanical ventilation. No relationship was observed between tidal volume and mortality when stratifying by low (<7mL/kg) versus high (>12mL/kg) tidal volume, stratifying into multiple categories of tidal volume, or only analyzing children with ARDS/ALI.
+    <br /><br />
+
+* [Caironi, Pietro, et al.](ALBIOS Albumin in Septic Shock 2014.pdf) **“Albumin Replacement in Patients with Severe Sepsis or Septic Shock.”** _New England Journal of Medicine_, vol. 370, no. 15, 2014, pp. 1412–21, doi:10.1056/nejmoa1305727.
+
+* [Curley, Martha A. Q., et al.](RESTORE Protocolized Sedation 2015.pdf) **“Protocolized Sedation vs Usual Care in Pediatric Patients Mechanically Ventilated for Acute Respiratory Failure: A Randomized Clinical Trial.”** _JAMA - Journal of the American Medical Association_, vol. 313, no. 4, 2015, pp. 379–89, doi:10.1001/jama.2014.18399.
+
+* [The PRISM Investigators.](PRISM Meta-Analysis EGDT 2017.pdf) **“Early, Goal-Directed Therapy for Septic Shock — A Patient-Level Meta-Analysis.”** _New England Journal of Medicine_, vol. 376, no. 23, 2017, pp. 2223–34, doi:10.1056/nejmoa1701380.
+
+* [Fivez, Tom, et al.](PEPaNIC TPN Early vs Late 2016.pdf) **“Early versus Late Parenteral Nutrition in Critically Ill Children.”** _New England Journal of Medicine_, vol. 374, no. 12, 2016, pp. 1111–22, doi:10.1056/nejmoa1514762.
+
+* [Moler, Frank W., et al.](THAPCA Hypothermia Cardiac Arrest (In-hospital) 2017.pdf) **“Therapeutic Hypothermia after In-Hospital Cardiac Arrest in Children.”** _New England Journal of Medicine_, vol. 376, no. 4, 2017, pp. 318–29, doi:10.1056/nejmoa1610493.
+
+* [Agus, Michael S. D., et al.](HALF-PINT Glycemic Control 2017.pdf) **“Tight Glycemic Control in Critically Ill Children.”** _New England Journal of Medicine_, vol. 376, no. 8, 2017, pp. 729–41, doi:10.1056/nejmoa1612348.
+
+* [Ferreira, Juan Pablo, and Mabel Ferraro.](PECARN DKA Fluids 2018.pdf) **“Clinical Trial of Fluid Infusion Rates for Pediatric Diabetic Ketoacidosis.”** _Archivos Argentinos de Pediatria_, vol. 116, no. 6, 2018, pp. E793–94, doi:10.1056/nejmoa1716816.
 
 * [Wong, Joshua L. C., et al.](Large RCTs in sepsis and shock and underestimation of sample size 2018.pdf) **“Are Large Randomised Controlled Trials in Severe Sepsis and Septic Shock Statistically Disadvantaged by Repeated Inadvertent Underestimates of Required Sample Size?”** _BMJ Open_, vol. 8, no. 8, 2018, doi:10.1136/bmjopen-2017-020068.
+
 * [Laffey, John G., and Brian P. Kavanagh.](Negative trials in critical care why most research is probably wrong 2018.pdf) **“Negative Trials in Critical Care: Why Most Research Is Probably Wrong.”** _The Lancet Respiratory Medicine_, vol. 6, no. 9, Elsevier Ltd, 2018, pp. 659–60, doi:10.1016/S2213-2600(18)30279-0.
 
+* [Venkatesh, Balasubramanian, et al.](ADRENAL Steroids for Septic Shock 2018.pdf) **“Adjunctive Glucocorticoid Therapy in Patients with Septic Shock.”** _New England Journal of Medicine_, vol. 378, no. 9, 2018, pp. 797–808, doi:10.1056/nejmoa1705835.
+
+* [National Heart, Lung, and Blood Institute PETAL Clinical Trials Network.](ROSE Paralytic ARDS 2019.pdf) **“Early Neuromuscular Blockade in the Acute Respiratory Distress Syndrome.”** New England Journal of Medicine, vol. 380, no. 21, 2019, pp. 1997–2008, doi:10.1056/nejmoa1901686. 
+  * Negative study. Larger, multi-center trial similar to the ACURASYS 2010 study. This was an RCT of 1006 adults with moderate to severe ARDS (P/F<150), randomizing to continuous paralytic and deep sedation for 48 hours, versus usual care. The primary outcome was inhospital mortality at 90 days. Trial was stopped early for futility. 
+    <br /><br />
+
+* [Zampieri, Fernando G., et al.](BaSICS Fluids 2021.pdf) **“Effect of Intravenous Fluid Treatment With a Balanced Solution vs 0.9% Saline Solution on Mortality in Critically Ill Patients.”** _JAMA_, Aug. 2021, pp. 1–12, doi:10.1001/jama.2021.11684.
 
 ---
 
@@ -345,7 +413,7 @@ autoSave=false
 12. [SAFE Study Investigators.](SAFE Albumin in Septic Shock 2004.pdf) **“A Comparison of Albumin and Saline for Fluid Resuscitation in the Intensive Care Unit.”** _New England Journal of Medicine_, vol. 350, no. 22, May 2004, pp. 2247–56, doi:10.1056/NEJMoa040232.
 13. [Gattinoni, Luciano, and Antonio Pesenti.](Gattinoni The concept of “baby lung” 2005.pdf) **“The Concept of ‘Baby Lung.’”** Intensive Care Medicine, vol. 31, no. 6, June 2005, pp. 776–84, doi:10.1007/s00134-005-2627-z. 
 14. [Pillow, J. Jane.](Pillow - 2005 - High-frequency oscillatory ventilation Mechanisms of gas exchange and lung mechanics.pdf) **“High-Frequency Oscillatory Ventilation: Mechanisms of Gas Exchange and Lung Mechanics.”** Critical Care Medicine, vol. 33, no. Supplement, Mar. 2005, pp. S135–41, doi:10.1097/01.CCM.0000155789.52984.B7. 
-15. [Steinberg, Kenneth P., et al.](..\Key Articles in Critical Care\ARDSNET Steroids for ARDS 2006.pdf) **“Efficacy and Safety of Corticosteroids for Persistent Acute Respiratory Distress Syndrome.”** The New England Journal of Medicine, vol. 354, no. 16, Apr. 2006, pp. 1671–84, doi:10.1056/NEJMoa051693.
+15. [Steinberg, Kenneth P., et al.](ARDSNET Steroids for ARDS 2006.pdf) **“Efficacy and Safety of Corticosteroids for Persistent Acute Respiratory Distress Syndrome.”** The New England Journal of Medicine, vol. 354, no. 16, Apr. 2006, pp. 1671–84, doi:10.1056/NEJMoa051693.
 16. [National Heart, Lung, and Blood Institute Acute Respiratory Distress Syndrome (ARDS) Clinical Trials Network.](FACTT Fluids in ARDS 2006.pdf) **“Comparison of Two Fluid-Management Strategies in Acute Lung Injury.”** New England Journal of Medicine, vol. 354, no. 24, June 2006, pp. 2564–75, doi:10.1056/NEJMoa062200. 
 17. [Nadel, Simon, et al.](RESOLVE Activate Protein C 2007.pdf) **“Drotrecogin Alfa (Activated) in Children with Severe Sepsis: A Multicentre Phase III Randomised Controlled Trial.”** _The Lancet_, vol. 369, no. 9564, Mar. 2007, pp. 836–43, doi:10.1016/S0140-6736(07)60411-5.
 18. [Lacroix, Jacques, et al.](TRIPICU Transfusion 2007.pdf) **“Transfusion Strategies for Patients in Pediatric Intensive Care Units.”** _New England Journal of Medicine_, vol. 356, no. 16, Apr. 2007, pp. 1609–19, doi:10.1056/NEJMoa066240.
@@ -405,7 +473,7 @@ autoSave=false
 72. [Slomine, Beth S., et al.](Cardiac arrest neuropsych outcomes 2018.pdf) **“Neuropsychological Outcomes of Children 1 Year after Pediatric Cardiac Arrest: Secondary Analysis of 2 Randomized Clinical Trials.”** _JAMA Neurology_, vol. 75, no. 12, 2018, pp. 1502–10, doi:10.1001/jamaneurol.2018.2628.
 73. [Kochanek, Patrick M., et al.](TBI Management Guidelines 2019.pdf) **“Management of Pediatric Severe Traumatic Brain Injury: 2019 Consensus and Guidelines-Based Algorithm for First and Second Tier Therapies.”** _Pediatric Critical Care Medicine_, vol. 20, no. 3, 2019, pp. 269–79, doi:10.1097/PCC.0000000000001737.
 74. [Gaudry, Stéphane, et al.](CRRT Timing Overview 2017.pdf) **“Timing of Renal Replacement Therapy for Severe Acute Kidney Injury in Critically Ill Patients.”** _American Journal of Respiratory and Critical Care Medicine_, vol. 199, no. 9, Feb. 2019, p. rccm.201810-1906CP, doi:10.1164/rccm.201810-1906CP.
-75. [National Heart, Lung, and Blood Institute PETAL Clinical Trials Network.](..\Key Articles in Critical Care\ROSE Paralytic ARDS 2019.pdf) **“Early Neuromuscular Blockade in the Acute Respiratory Distress Syndrome.”** New England Journal of Medicine, vol. 380, no. 21, 2019, pp. 1997–2008, doi:10.1056/nejmoa1901686. 
+75. [National Heart, Lung, and Blood Institute PETAL Clinical Trials Network.](ROSE Paralytic ARDS 2019.pdf) **“Early Neuromuscular Blockade in the Acute Respiratory Distress Syndrome.”** New England Journal of Medicine, vol. 380, no. 21, 2019, pp. 1997–2008, doi:10.1056/nejmoa1901686. 
 76. [Weiss, Scott L., et al.](Sepsis Surviving Sepsis Guidelines 2020.pdf) **“Surviving Sepsis Campaign International Guidelines for the Management of Septic Shock and Sepsis-Associated Organ Dysfunction in Children.”** Intensive Care Medicine, vol. 46, no. 2, 2020, doi:10.1007/s00134-019-05878-6.
 77. [Jacobs, An, et al.](PEPaNIC TPN Early versus Late Long-Term Cognition 2020.pdf) **“Long-Term Developmental Effect of Withholding Parenteral Nutrition in Paediatric Intensive Care Units: A 4-Year Follow-up of the PEPaNIC Randomised Controlled Trial.”** _The Lancet Child & Adolescent Health_, vol. 4, no. 7, July 2020, pp. 503–14, doi:10.1016/S2352-4642(20)30104-8.
 78. [Salvador, David Raymund K., et al.](Cochrane Loop diuretics continuous versus bolus 2005.pdf) **“Continuous Infusion versus Bolus Injection of Loop Diuretics in Congestive Heart Failure.”** _Cochrane Database of Systematic Reviews_, vol. 2005, no. 3, 2020, doi:10.1002/14651858.CD003178.pub3.
