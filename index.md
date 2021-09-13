@@ -38,8 +38,6 @@ autoSave=false
 * [1998. Meduri, G. Umberto, et al.](Meduri Steroids in ARDS 1998.pdf) **“Effect of Prolonged Methylprednisolone Therapy in Unresolving Acute Respiratory Distress Syndrome.”** JAMA, vol. 280, no. 2, July 1998, p. 159, doi:10.1001/jama.280.2.159.
   * Small, single center RCT of methylprednisolone in ARDS. Very controversial. Showed improvement in mortality, organ dysfunction scores, and successful extubation. Subsequent studies have failed to replicate this, and shown rebound worsening after steroids were stopped.
 
-
-
 * [2000. The ARDS Network.](ARDSNet Low-TV Ventilation 2000.pdf) **“Ventilation with Lower Tidal Volumes as Compared with Traditional Tidal Volumes for Acute Lung Injury and the Acute Respiratory Distress Syndrome.”** New England Journal of Medicine, vol. 342, no. 18, May 2000, pp. 1301–08, doi:10.1056/NEJM200005043421801. 
   * Ground-breaking study of low (6mL/kg) versus standard (at the time, 12mL/kg) tidal volume ventilation in ARDS, showing mortality of 31% vs nearly 39% in the two study arms.
 
@@ -98,7 +96,6 @@ autoSave=false
   * Re-analysis of 9 prior studies of ARDS investigating relationship of various ventilatory variables and mortality. The key finding was that driving pressure (plateau pressure minus PEEP) is directly associated with mortality when PEEP and/or plateau pressure are held constant. Tidal volume was not associated after controlling for other variables. 
 
 * [2015. Slutsky, Arthur S.](History of Mechanical Ventilation 2015.pdf) **“History of Mechanical Ventilation. From Vesalius to Ventilator-Induced Lung Injury.”** American Journal of Respiratory and Critical Care Medicine, vol. 191, no. 10, May 2015, pp. 1106–15, doi:10.1164/rccm.201503-0421PP. 
-  <br /><br />
 
 * [2015. Jouvet, Philippe, et al.](PALICC ARDS Definition 2015.pdf) **“Pediatric Acute Respiratory Distress Syndrome: Consensus Recommendations from the Pediatric Acute Lung Injury Consensus Conference.”** Pediatric Critical Care Medicine, vol. 16, no. 5, 2015, pp. 428–39, doi:10.1097/PCC.0000000000000350. 
   * Management guidelines and definitions for pediatric ARDS from PALICC (Pediatric Acute Lung Injury Concensus Conference Group). Defines oxygenation index (OI) as (MAP x FiO2) / PaO2, and the oxygenation saturation index (OSI) as (MAP x FiO2) / SpO2. These variables take pressure into account, which P/F ratio does not. Patients were stratified as mild (OI 4-8, OSI 4-7.5), moderate (OI 8-16, OSI 7.5-12), and severe (OI>16, OSI >12). Mortality was directly associated with increasing OI and OSI.
@@ -110,7 +107,6 @@ autoSave=false
   * Studies of methylprednisolone in ARDS were initially very promising, but after many patients in the steroid group were later reintubated or died. The authors perfomed a trial-level meta-analysis of multiple RCTs of steroids for adult ARDS specifically investigating only patients who received prolonged courses of steroids (>7 days). Outcomes were time to unassisted breathing (UAB), ventilator-free and ICU-free days, and 28 day mortality. Prolonged steroids courses were associated with improvement in most outcomes: 12 vs 29 days to UAB; 80% versus 50% achieving UAB; 20% vs 33% mortality
 
 * [2017. Gattinoni, Luciano, et al.](Mechanical ventilation future lessons from past and present 2017.pdf) **“The Future of Mechanical Ventilation: Lessons from the Present and the Past.”** Critical Care, vol. 21, no. 1, Critical Care, 2017, p. 183, doi:10.1186/s13054-017-1750-x. 
-  <br /><br />
 
 * [2017. Meade, Maureen O., et al.](ARDS HFOV and Severity of Hypoxemia 2017.pdf) **“Severity of Hypoxemia and Effect of High-Frequency Oscillatory Ventilation in Acute Respiratory Distress Syndrome.”** American Journal of Respiratory and Critical Care Medicine, vol. 196, no. 6, Sept. 2017, pp. 727–33, doi:10.1164/rccm.201609-1938OC. 
   * Re-analysis of several HFOV versus conventional ventilation studies. Patients with the most severe hypoxemia based upon P/F ratios may benefit from HFOV, whereas those with less severe hypoxemia may be harmed. The cutoff where the risk/benefit ratio favors HFOV is unclear. The authors cautiously offer a P/F ratio of less than 64 as one cutoff based upon their statistical analysis.
@@ -174,15 +170,12 @@ autoSave=false
 ## <a name='Guidelines'></a>Guidelines
 
 * [2012. Ranieri, V. Marco, et al.](Berlin ARDS Definition 2012.pdf) **“Acute Respiratory Distress Syndrome: The Berlin Definition.”** JAMA - Journal of the American Medical Association, vol. 307, no. 23, 2012, pp. 2526–33, doi:10.1001/jama.2012.5669. 
-
   * Updated the prior definitions of ARDS and ALI based on P/F ratio. ARDS is now stratified as mild (<300), moderate (200-300), and severe (<100), which associate clearly with mortality. There is no requirement for a low left atrial pressure, but instead only that the pulmonary edema not be fully explained by LA hypertension.
 
 * [2015. Rimensberger, Peter C., and Ira M. Cheifetz.](PALICC Pediatric ARDS Guidelines for Ventilation  2015.pdf) **“Ventilatory Support in Children With Pediatric Acute Respiratory Distress Syndrome.”** Pediatric Critical Care Medicine, vol. 16, 2015, pp. S51–60, doi:10.1097/PCC.0000000000000433. 
-
   * Guidelines from PALICC (Pediatric Acute Lung Injury Concensus Conference Group) on strategies and settings for mechanical ventilation in children.
 
 * [2015. Jouvet, Philippe, et al.](PALICC ARDS Definition 2015.pdf) **“Pediatric Acute Respiratory Distress Syndrome: Consensus Recommendations from the Pediatric Acute Lung Injury Consensus Conference.”** Pediatric Critical Care Medicine, vol. 16, no. 5, 2015, pp. 428–39, doi:10.1097/PCC.0000000000000350. 
-
   * Management guidelines and definitions for pediatric ARDS from PALICC (Pediatric Acute Lung Injury Concensus Conference Group). Defines oxygenation index (OI) as (MAP x FiO2) / PaO2, and the oxygenation saturation index (OSI) as (MAP x FiO2) / SpO2. These variables take pressure into account, which P/F ratio does not. Patients were stratified as mild (OI 4-8, OSI 4-7.5), moderate (OI 8-16, OSI 7.5-12), and severe (OI>16, OSI >12). Mortality was directly associated with increasing OI and OSI.
 
 * [2016. Singer, Mervyn, et al.](Sepsis 3 2016.pdf) **“The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3).”** JAMA, vol. 315, no. 8, Feb. 2016, pp. 801–10, doi:10.1001/jama.2016.0287.
