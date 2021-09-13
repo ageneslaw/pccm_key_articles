@@ -21,15 +21,15 @@
 title: PCCM Key Articles
 email: asg2195@cumc.columbia.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  This document is a bibliography and index for core articles in critical care medicine, accessible to Columbia University / Morgan Stanley Children's Hospital of New York (CHONY) PICU Fellows. 
+  Index for core articles in critical care medicine, accessible to Columbia University / Morgan Stanley Children's Hospital of New York (CHONY) PICU Fellows. 
 baseurl: "/pccm_key_articles/" # the subpath of your site, e.g. /blog
 url: "https://ageneslaw.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gs_law
 github_username:  ageneslaw
 
 # Build settings
-remote_theme: pages-themes/cayman@v0.2.0
-#remote_theme: poole/hyde
+#remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: fongandrew/hydeout
 plugins:
   - jekyll-feed
   - jekyll-remote-theme

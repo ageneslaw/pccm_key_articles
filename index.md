@@ -1,36 +1,9 @@
 ---
-title: "Key Articles in Pediatric Critical Care Medicine"
-keywords: index
-layout: page
+title:
+    - "Key Articles in Pediatric Critical Care Medicine"
+keywords:
+    - index
 ---
-   
-### Table of Contents
-
-<!-- vscode-markdown-toc -->
-
-* [ARDS, mechanical ventilation, and lung injury](#ARDSmechanicalventilationandlunginjury)
-* [Cardiothoracic surgery](#Cardiothoracicsurgery)
-* [DKA](#DKA)
-* [Fluid management](#Fluidmanagement)
-* [Glycemic control](#Glycemiccontrol)
-* [Guidelines](#Guidelines)
-* [Long-term outcomes](#Long-termoutcomes)
-* [Miscellaneous](#Miscellaneous)
-* [Negative trials & studies](#Negativetrials)
-* [Nutrition](#Nutrition)
-* [Renal replacement therapy](#Renalreplacementtherapy)
-* [Sedation](#Sedation)
-* [Sepsis & Shock](#Sepsisshock)
-* [Temperature control](#Temperaturecontrol)
-* [Transfusion](#Transfusion)
-* [Traumatic brain injury](#Traumaticbraininjury)
-* [Complete bibliography](#Completeblibligraphy)
-
-<!-- vscode-markdown-toc-config
-numbering=false
-autoSave=false
-/vscode-markdown-toc-config -->
-<!-- /vscode-markdown-toc -->
 
 ## <a name='ARDSmechanicalventilationandlunginjury'></a>ARDS, mechanical ventilation, and lung injury
 
@@ -41,7 +14,7 @@ autoSave=false
   * Ground-breaking study of low (6mL/kg) versus standard (at the time, 12mL/kg) tidal volume ventilation in ARDS, showing mortality of 31% vs nearly 39% in the two study arms.
 
 * [2004. National Heart, Lung, and Blood Institute Acute Respiratory Distress Syndrome (ARDS) Clinical Trials Network.](ARDSNET High vs Low PEEP 2004.pdf) **“Higher versus Lower Positive End-Expiratory Pressures in Patients with the Acute Respiratory Distress Syndrome.”** New England Journal of Medicine, vol. 351, no. 4, July 2004, pp. 327–36, doi:10.1056/NEJMoa032193. 
-  * [Negative trial. Used low TV ventilation for all patients and plateau pressures below 30cm of H2O. PEEP titrated based on FiO2 level. No difference in mortality based on high PEEP (starting at 12, max 22-24) versus low PEEP (starting at 5, max 18-24) groups.
+  * Negative trial. Used low TV ventilation for all patients and plateau pressures below 30cm of H2O. PEEP titrated based on FiO2 level. No difference in mortality based on high PEEP (starting at 12, max 22-24) versus low PEEP (starting at 5, max 18-24) groups.
 
 * [2004. Taylor, Robert W., et al.](Taylor iNO for ARDS 2004.pdf) **“Low-Dose Inhaled Nitric Oxide in Patients.”** Journal of the American Medical Association, vol. 291, no. 13, 2004, pp. 1603–09. 
   * Negative trial. Low-dose iNO (5ppm) versus placebo did not impove ventilator-free days. There was a transient increase in oxygenation in the iNO group.
@@ -211,7 +184,7 @@ autoSave=false
 * [2001. Bernard, Gordon R., et al.](PROWESS Activated Protein C 2001.pdf) **“Efficacy and Safety of Recombinant Human Activated Protein C for Severe Sepsis.”** _New England Journal of Medicine_, vol. 344, no. 10, Mar. 2001, pp. 699–709, doi:10.1056/NEJM200103083441001.
 
 * [2004. National Heart, Lung, and Blood Institute Acute Respiratory Distress Syndrome (ARDS) Clinical Trials Network.](ARDSNET High vs Low PEEP 2004.pdf) **“Higher versus Lower Positive End-Expiratory Pressures in Patients with the Acute Respiratory Distress Syndrome.”** New England Journal of Medicine, vol. 351, no. 4, July 2004, pp. 327–36, doi:10.1056/NEJMoa032193. 
-  * [Negative trial. Used low TV ventilation for all patients and plateau pressures below 30cm of H2O. PEEP titrated based on FiO2 level. No difference in mortality based on high PEEP (starting at 12, max 22-24) versus low PEEP (starting at 5, max 18-24) groups.
+  * Negative trial. Used low TV ventilation for all patients and plateau pressures below 30cm of H2O. PEEP titrated based on FiO2 level. No difference in mortality based on high PEEP (starting at 12, max 22-24) versus low PEEP (starting at 5, max 18-24) groups.
 
 * [2004. Taylor, Robert W., et al.](Taylor iNO for ARDS 2004.pdf) **“Low-Dose Inhaled Nitric Oxide in Patients.”** Journal of the American Medical Association, vol. 291, no. 13, 2004, pp. 1603–09. 
   * Negative trial. Low-dose iNO (5ppm) versus placebo did not impove ventilator-free days. There was a transient increase in oxygenation in the iNO group.
