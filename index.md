@@ -1,8 +1,7 @@
 ---
-title: 
-    - "Key Articles in Pediatric Critical Care Medicine"
-keywords: 
-    - index
+title: "Key Articles in Pediatric Critical Care Medicine"
+keywords: index
+layout: page
 ---
    
 ### Table of Contents
