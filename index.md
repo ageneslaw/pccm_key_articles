@@ -1,36 +1,9 @@
 ---
-title: "Key Articles in Pediatric Critical Care Medicine"
-keywords: index
-layout: page
+title:
+    - "Key Articles in Pediatric Critical Care Medicine"
+keywords:
+    - index
 ---
-   
-### Table of Contents
-
-<!-- vscode-markdown-toc -->
-
-* [ARDS, mechanical ventilation, and lung injury](#ARDSmechanicalventilationandlunginjury)
-* [Cardiothoracic surgery](#Cardiothoracicsurgery)
-* [DKA](#DKA)
-* [Fluid management](#Fluidmanagement)
-* [Glycemic control](#Glycemiccontrol)
-* [Guidelines](#Guidelines)
-* [Long-term outcomes](#Long-termoutcomes)
-* [Miscellaneous](#Miscellaneous)
-* [Negative trials & studies](#Negativetrials)
-* [Nutrition](#Nutrition)
-* [Renal replacement therapy](#Renalreplacementtherapy)
-* [Sedation](#Sedation)
-* [Sepsis & Shock](#Sepsisshock)
-* [Temperature control](#Temperaturecontrol)
-* [Transfusion](#Transfusion)
-* [Traumatic brain injury](#Traumaticbraininjury)
-* [Complete bibliography](#Completeblibligraphy)
-
-<!-- vscode-markdown-toc-config
-numbering=false
-autoSave=false
-/vscode-markdown-toc-config -->
-<!-- /vscode-markdown-toc -->
 
 ## <a name='ARDSmechanicalventilationandlunginjury'></a>ARDS, mechanical ventilation, and lung injury
 
