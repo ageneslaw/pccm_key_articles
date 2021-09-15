@@ -111,7 +111,6 @@ keywords:
 * [2010. Ohye, Richard G., et al.](SVR Single Ventricle BTS vs Sano 2010.pdf) **“Comparison of Shunt Types in the Norwood Procedure for Single-Ventricle Lesions.”** New England Journal of Medicine, vol. 362, no. 21, May 2010, pp. 1980–92, doi:10.1056/NEJMoa0912461.
 * [2012. Agus, Michael S. D., et al.](SPECS Glycemic Control Pediatric Cardiac Surgery 2012.pdf) **“Tight Glycemic Control versus Standard Care after Pediatric Cardiac Surgery.”** _New England Journal of Medicine_, vol. 367, no. 13, 2012, pp. 1208–19, doi:10.1056/nejmoa1206044.
 * [2015. Eastaugh, Lucas J., et al.](ECMO LA Decompression 2015.pdf) **"Percutaneous left atrial decompression in patients supported with extracorporeal membrane oxygenation for cardiac disease."** _Pediatric Critical Care Medicine_, vol. 16, no. 1, 2015, pp. 59-65, doi: 10.1097/PCC.0000000000000276.
-* [2016. Lasa, Javier J., et al.](ECMO ECPR Improved Survival 2016.pdf) **"Extracorporeal cardiopulmonary resuscitation (E-CPR) during pediatric in-hospital cardiopulmonary arrest is associated with improved survival to discharge: a report from the American Heart Association’s Get With The Guidelines–Resuscitation (GWTG-R) Registry."** _Circulation_, vol. 133, no. 2, 2016, pp. 165-176, doi: 10.1161/CIRCULATIONAHA.115.016082.
 * [2017. Spaeder, Michael C., et al.](NIRS and Neurodevelopmental Outcomes 2017.pdf) **"Perioperative Near-Infrared Spectroscopy Monitoring in Neonates With Congenital Heart Disease: Relationship of Cerebral Tissue Oxygenation Index Variability With Neurodevelopmental Outcome."** _Pediatric Critical Care Medicine_, vol. 18, no. 3, 2017, pp. 213-218, doi: 10.1097/PCC.0000000000001056. 
 * [2018. Uzark, Karen C., et al.](Cardiac Critical Care Useful References 2018.pdf) **“Useful References in Pediatric Cardiac Intensive Care.”** _Pediatric Critical Care Medicine_, 2018, p. 1, doi:10.1097/PCC.0000000000001523.
 
@@ -122,6 +121,12 @@ keywords:
 * [2001. Glaser, Nicole, et al.](Glaser DKA Fluids 2001.pdf) **“Risk Factors for Cerebral Edema in Children with Diabetic Ketoacidosis.”** _New England Journal of Medicine_, vol. 344, no. 4, Jan. 2001, pp. 264–69, doi:10.1056/NEJM200101253440404.
 
 * [2018. Ferreira, Juan Pablo, and Mabel Ferraro.](PECARN DKA Fluids 2018.pdf) **“Clinical Trial of Fluid Infusion Rates for Pediatric Diabetic Ketoacidosis.”** _Archivos Argentinos de Pediatria_, vol. 116, no. 6, 2018, pp. E793–94, doi:10.1056/nejmoa1716816.
+
+---
+
+## <a name='ECMO'></a>ECMO
+
+* [2016. Lasa, Javier J., et al.](ECMO ECPR Improved Survival 2016.pdf) **"Extracorporeal cardiopulmonary resuscitation (E-CPR) during pediatric in-hospital cardiopulmonary arrest is associated with improved survival to discharge: a report from the American Heart Association’s Get With The Guidelines–Resuscitation (GWTG-R) Registry."** _Circulation_, vol. 133, no. 2, 2016, pp. 165-176, doi: 10.1161/CIRCULATIONAHA.115.016082.
 
 ---
 
