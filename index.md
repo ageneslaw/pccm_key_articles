@@ -126,11 +126,8 @@ keywords:
 
 ## <a name='ECMO'></a>ECMO
 
-<<<<<<< HEAD
-[2015. Eastaugh, Lucas J., et al.](ECMO LA Decompression 2015.pdf) **"Percutaneous left atrial decompression in patients supported with extracorporeal membrane oxygenation for cardiac disease."** _Pediatric Critical Care Medicine_, vol. 16, no. 1, 2015, pp. 59-65, doi: 10.1097/PCC.0000000000000276.
+* [2015. Eastaugh, Lucas J., et al.](ECMO LA Decompression 2015.pdf) **"Percutaneous left atrial decompression in patients supported with extracorporeal membrane oxygenation for cardiac disease."** _Pediatric Critical Care Medicine_, vol. 16, no. 1, 2015, pp. 59-65, doi: 10.1097/PCC.0000000000000276.
 
-=======
->>>>>>> aeac56cf355c727e399dc6d08526a467a8ffabd0
 * [2016. Lasa, Javier J., et al.](ECMO ECPR Improved Survival 2016.pdf) **"Extracorporeal cardiopulmonary resuscitation (E-CPR) during pediatric in-hospital cardiopulmonary arrest is associated with improved survival to discharge: a report from the American Heart Association’s Get With The Guidelines–Resuscitation (GWTG-R) Registry."** _Circulation_, vol. 133, no. 2, 2016, pp. 165-176, doi: 10.1161/CIRCULATIONAHA.115.016082.
 
 ---
