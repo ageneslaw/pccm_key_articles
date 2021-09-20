@@ -119,6 +119,7 @@ keywords:
 ## <a name='DKA'></a>DKA
 
 * [2001. Glaser, Nicole, et al.](Glaser DKA Fluids 2001.pdf) **“Risk Factors for Cerebral Edema in Children with Diabetic Ketoacidosis.”** _New England Journal of Medicine_, vol. 344, no. 4, Jan. 2001, pp. 264–69, doi:10.1056/NEJM200101253440404.
+  * Multi-center, retrospective study of children with DKA, comparing those who did versus did not develop cerebral edema. Children with DKA-associated cerebral edema were compared to (1) randomly selected controls with DKA, and (2) matched controls with DKA. Cerebral edema occurred in 61 of 6977 (0.9%) of hospitalizations. Multvariable analysis revealed the following associations with developing cerebral edema: elevated BUN, lower PaCO2, faster rate of increase in serum Na, and treatment with bicarbonate. Important to note is that this is a retrospective, case-control study, inferring causality is not possible, and it may be even more challenging than in cohort studies.
 
 * [2018. Ferreira, Juan Pablo, and Mabel Ferraro.](PECARN DKA Fluids 2018.pdf) **“Clinical Trial of Fluid Infusion Rates for Pediatric Diabetic Ketoacidosis.”** _Archivos Argentinos de Pediatria_, vol. 116, no. 6, 2018, pp. E793–94, doi:10.1056/nejmoa1716816.
 
