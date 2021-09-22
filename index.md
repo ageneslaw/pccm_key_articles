@@ -8,7 +8,7 @@ keywords:
 ## <a name='ARDSmechanicalventilationandlunginjury'></a>ARDS, mechanical ventilation, and lung injury
 
 * [1998. Meduri, G. Umberto, et al.](Meduri Steroids in ARDS 1998.pdf) **“Effect of Prolonged Methylprednisolone Therapy in Unresolving Acute Respiratory Distress Syndrome.”** _JAMA_, vol. 280, no. 2, July 1998, p. 159, doi:10.1001/jama.280.2.159.
-  * Small, single center RCT of methylprednisolone in ARDS. Very controversial. Showed improvement in mortality, organ dysfunction scores, and successful extubation. Subsequent studies have failed to replicate this, and shown rebound worsening after steroids were stopped.
+  * Small, single center RCT of methylprednisolone in ARDS. Very controversial. Showed improvement in mortality, organ dysfunction scores, and successful extubation. Subsequent studies have failed to replicate this, and shown rebound worsening after steroids were stopped..
 
 * [2000. The ARDS Network.](ARDSNet Low-TV Ventilation 2000.pdf) **“Ventilation with Lower Tidal Volumes as Compared with Traditional Tidal Volumes for Acute Lung Injury and the Acute Respiratory Distress Syndrome.”** _New England Journal of Medicine_, vol. 342, no. 18, May 2000, pp. 1301–08, doi:10.1056/NEJM200005043421801. 
   * Ground-breaking study of low (6mL/kg) versus standard (at the time, 12mL/kg) tidal volume ventilation in ARDS, showing mortality of 31% vs nearly 39% in the two study arms.
@@ -146,6 +146,7 @@ keywords:
   * Conservative versus liberal fluid administration strategies in ARDS. Mortality at 60 days was not significantly different between groups. Oxygenation index, lung injury score, and ventilator free days were improved with more conservative fluid strategy.
 
 * [2012. Myburgh, John A., et al.](CHEST Hetastarch 2012.pdf) **“Hydroxyethyl Starch or Saline for Fluid Resuscitation in Intensive Care.”** _New England Journal of Medicine_, vol. 367, no. 20, Nov. 2012, pp. 1901–11, doi:10.1056/NEJMoa1209759.
+  * Negative trial. Double-blind, multi-center RCT of adult ICU patients using hydroxyethyl starch (HES) vs. normal saline for all fluid resuscitation. No difference in 90-day mortality (18% HES vs 17% control), with more renal injury and renal replacement therapy in the HES group. The death knell for HETAstarch.
 
 * [2014. Caironi, Pietro, et al.](ALBIOS Albumin in Septic Shock 2014.pdf) **“Albumin Replacement in Patients with Severe Sepsis or Septic Shock.”** _New England Journal of Medicine_, vol. 370, no. 15, 2014, pp. 1412–21, doi:10.1056/nejmoa1305727.
   * "ALBIOS" study. Negative trial. Open-label RCT in adults with severe sepsis, randomized to receive daily 20% albumin infusions targeting a level of 3.0mg/dL, versus crystalloid alone. Patients in the albumin group had slight improvements in heart rate, blood pressure, and received less total fluid. 28-day mortality was the same in both groups (32%), and 90-day mortality was not significantly different (41% versus 44% in albumin vs. crystalloid groups). No difference was observed in duration of IMV or proportion requiring renal replacement therapy. There was a small improvement (1 day fewer) in time until stopping vasopressor/inotropic medications. A subgroup analysis, unadjusted for multiple comparisons, found a slight survival advantage for patients with septic shock (43.6% vs. 49.9% , ARR 6.3%, RR 0.87 [0.77-0.99]).
@@ -239,6 +240,7 @@ keywords:
 * [2012. Ranieri, V. Marco, et al.](PROWESS-SHOCK Activated Protein C 2012.pdf) **"Drotrecogin alfa (activated) in adults with septic shock."** _New England Journal of Medicine_, vol. 366, no. 22,  May 2012, pp. 2055-2064, doi:10.1056/NEJMoa1202290.
 
 * [2012. Myburgh, John A., et al.](CHEST Hetastarch 2012.pdf) **“Hydroxyethyl Starch or Saline for Fluid Resuscitation in Intensive Care.”** _New England Journal of Medicine_, vol. 367, no. 20, Nov. 2012, pp. 1901–11, doi:10.1056/NEJMoa1209759.
+  * Negative trial. Double-blind, multi-center RCT of adult ICU patients using hydroxyethyl starch (HES) vs. normal saline for all fluid resuscitation. No difference in 90-day mortality (18% HES vs 17% control), with more renal injury and renal replacement therapy in the HES group. The death knell for HETAstarch.
 
 * [2012. Agus, Michael S. D., et al.](SPECS Glycemic Control Pediatric Cardiac Surgery 2012.pdf) **“Tight Glycemic Control versus Standard Care after Pediatric Cardiac Surgery.”** _New England Journal of Medicine_, vol. 367, no. 13, 2012, pp. 1208–19, doi:10.1056/nejmoa1206044.
 
@@ -335,6 +337,7 @@ keywords:
 * [2012. Ranieri, V. Marco, et al.](PROWESS-SHOCK Activated Protein C 2012.pdf) **"Drotrecogin alfa (activated) in adults with septic shock."** _New England Journal of Medicine_, vol. 366, no. 22,  May 2012, pp. 2055-2064, doi:10.1056/NEJMoa1202290.
 
 * [2012. Myburgh, John A., et al.](CHEST Hetastarch 2012.pdf) **“Hydroxyethyl Starch or Saline for Fluid Resuscitation in Intensive Care.”** _New England Journal of Medicine_, vol. 367, no. 20, Nov. 2012, pp. 1901–11, doi:10.1056/NEJMoa1209759.
+  * Negative trial. Double-blind, multi-center RCT of adult ICU patients using hydroxyethyl starch (HES) vs. normal saline for all fluid resuscitation. No difference in 90-day mortality (18% HES vs 17% control), with more renal injury and renal replacement therapy in the HES group. The death knell for HETAstarch.
 
 * [2014. Caironi, Pietro, et al.](ALBIOS Albumin in Septic Shock 2014.pdf) **“Albumin Replacement in Patients with Severe Sepsis or Septic Shock.”** _New England Journal of Medicine_, vol. 370, no. 15, 2014, pp. 1412–21, doi:10.1056/nejmoa1305727.
   * "ALBIOS" study. Negative trial. Open-label RCT in adults with severe sepsis, randomized to receive daily 20% albumin infusions targeting a level of 3.0mg/dL, versus crystalloid alone. Patients in the albumin group had slight improvements in heart rate, blood pressure, and received less total fluid. 28-day mortality was the same in both groups (32%), and 90-day mortality was not significantly different (41% versus 44% in albumin vs. crystalloid groups). No difference was observed in duration of IMV or proportion requiring renal replacement therapy. There was a small improvement (1 day fewer) in time until stopping vasopressor/inotropic medications. A subgroup analysis, unadjusted for multiple comparisons, found a slight survival advantage for patients with septic shock (43.6% vs. 49.9% , ARR 6.3%, RR 0.87 [0.77-0.99]).
