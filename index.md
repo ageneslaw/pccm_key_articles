@@ -319,9 +319,11 @@ keywords:
 
 ## <a name='Renalreplacementtherapy'></a>Renal replacement therapy
 
-* [2018. Barbar, Saber D., et al.](IDEAL-ICU Early vs Delayed CRRT 2018.pdf0) **“Timing of Renal-Replacement Therapy in Patients with Acute Kidney Injury and Sepsis.”** _New England Journal of Medicine_, vol. 379, no. 15, Oct. 2018, pp. 1431–42, doi:10.1056/NEJMoa1803213.
-
 * [2017. Gaudry, Stéphane, et al.](CRRT Timing Overview 2017.pdf) **“Timing of Renal Replacement Therapy for Severe Acute Kidney Injury in Critically Ill Patients.”** _American Journal of Respiratory and Critical Care Medicine_, vol. 199, no. 9, Feb. 2019, p. rccm.201810-1906CP, doi:10.1164/rccm.201810-1906CP.
+
+* [2018. Barbar, Saber D., et al.](IDEAL-ICU Early vs Delayed CRRT 2018.pdf) **“Timing of Renal-Replacement Therapy in Patients with Acute Kidney Injury and Sepsis.”** _New England Journal of Medicine_, vol. 379, no. 15, Oct. 2018, pp. 1431–42, doi:10.1056/NEJMoa1803213.
+
+* [2022. Stéphane Gaudry, Paul Palevsky, and Didier Dreyfuss.)[NEJM Renal Replacement Therapy 2022.pdf] **“Extracorporeal Kidney-Replacement Therapy for Acute Kidney Injury.”** _NEJM_, vol. 386, no. 10, March. 2022, p. 964-975, doi: 10.1056/NEJMra2104090.
 
 
 ---
@@ -499,3 +501,4 @@ keywords:
 85. [Macintyre, Neil, et al.](Fifty Years of Mechanical Ventilation 2020.pdf) **“Fifty Years of Mechanical Ventilation - 1970s to 2020.”** _Critical Care Medicine_, vol. 49, no. 4, 2021, pp. 558–74, doi:10.1097/CCM.0000000000004894. 
 86. [Zampieri, Fernando G., et al.](BaSICS Fluids 2021.pdf) **“Effect of Intravenous Fluid Treatment With a Balanced Solution vs 0.9% Saline Solution on Mortality in Critically Ill Patients.”** _JAMA_, Aug. 2021, pp. 1–12, doi:10.1001/jama.2021.11684.
 87. [2021. Zampieri, Fernando G., et al.](BaSICS Fluid Rate 2021.pdf) **"Effect of Slower vs Faster Intravenous Fluid Bolus Rates on Mortality in Critically Ill Patients: The BaSICS Randomized Clinical Trial."** _JAMA_, vol. 326, no. 9, Sept. 2021, p. 830, doi:10.1001/jama.2021.11444.
+88. [2022. Stéphane Gaudry, Paul Palevsky, and Didier Dreyfuss.)[NEJM Renal Replacement Therapy 2022.pdf] **“Extracorporeal Kidney-Replacement Therapy for Acute Kidney Injury.”** _NEJM_, vol. 386, no. 10, March. 2022, p. 964-975, doi: 10.1056/NEJMra2104090.
