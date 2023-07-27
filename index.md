@@ -184,6 +184,8 @@ keywords:
 
 ## <a name='Glycemiccontrol'></a>Glycemic control
 
+* [Van den Berghe, Greet, et al.](Van den Berghe Glycemic Control 2001.pdf) **“Intensive Insulin Therapy in Critically Ill Patients.”** _New England Journal of Medicine_, vol. 345, no. 19, Nov. 2001, pp. 1359–67, doi:10.1056/NEJMoa011300.
+
 * [2009. NICE-SUGAR Study Investigators.](NICE-SUGAR Glycemic Control 2009.pdf) **“Intensive versus Conventional Glucose Control in Critically Ill Patients.”** _New England Journal of Medicine_, vol. 360, no. 13, Mar. 2009, pp. 1283–97, doi:10.1056/NEJMoa0810625.
 
 * [2012. Agus, Michael S. D., et al.](SPECS Glycemic Control Pediatric Cardiac Surgery 2012.pdf) **“Tight Glycemic Control versus Standard Care after Pediatric Cardiac Surgery.”** _New England Journal of Medicine_, vol. 367, no. 13, 2012, pp. 1208–19, doi:10.1056/nejmoa1206044.
