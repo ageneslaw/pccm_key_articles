@@ -293,6 +293,7 @@ keywords:
 * [2015. Curley, Martha A. Q., et al.](RESTORE Protocolized Sedation 2015.pdf) **“Protocolized Sedation vs Usual Care in Pediatric Patients Mechanically Ventilated for Acute Respiratory Failure: A Randomized Clinical Trial.”** _JAMA - Journal of the American Medical Association_, vol. 313, no. 4, 2015, pp. 379–89, doi:10.1001/jama.2014.18399.
 
 * [2017. The PRISM Investigators.](PRISM Meta-Analysis EGDT 2017.pdf) **“Early, Goal-Directed Therapy for Septic Shock — A Patient-Level Meta-Analysis.”** _New England Journal of Medicine_, vol. 376, no. 23, 2017, pp. 2223–34, doi:10.1056/nejmoa1701380.
+  * Meta-analysis of ProCESS, ARISE, and ProMISe trials, each comparing EGDT versus usual care. 90-day mortality was similar between both groups, with an aOR of 0.97 (95% CI 0.82-1.14, p=0.68). Costs were higher with EGDT. One interpretation (and there are others) of this study is that "usual care" has greatly progressed since the Rivers trial of 2001, and the lessons of that trial have been so internalized within critical care that "usual care" is quite similar to EGDT. 
 
 * [2016. Fivez, Tom, et al.](PEPaNIC TPN Early vs Late 2016.pdf) **“Early versus Late Parenteral Nutrition in Critically Ill Children.”** _New England Journal of Medicine_, vol. 374, no. 12, 2016, pp. 1111–22, doi:10.1056/nejmoa1514762.
 
