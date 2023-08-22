@@ -168,6 +168,8 @@ keywords:
 * [2006. National Heart, Lung, and Blood Institute Acute Respiratory Distress Syndrome (ARDS) Clinical Trials Network.](FACTT Fluids in ARDS 2006.pdf) **“Comparison of Two Fluid-Management Strategies in Acute Lung Injury.”** _New England Journal of Medicine_, vol. 354, no. 24, June 2006, pp. 2564–75, doi:10.1056/NEJMoa062200. 
   * Conservative versus liberal fluid administration strategies in ARDS. Mortality at 60 days was not significantly different between groups. Oxygenation index, lung injury score, and ventilator free days were improved with more conservative fluid strategy.
 
+* [2011. Maitland, Kathryn, et al.](FEAST 2011.pdf) **“Mortality after Fluid Bolus in African Children with Severe Infection.”** _New England Journal of Medicine_, vol. 364, no. 26, June 2011, pp. 2483–95, doi:10.1056/NEJMoa1101549.
+
 * [2012. Myburgh, John A., et al.](CHEST Hetastarch 2012.pdf) **“Hydroxyethyl Starch or Saline for Fluid Resuscitation in Intensive Care.”** _New England Journal of Medicine_, vol. 367, no. 20, Nov. 2012, pp. 1901–11, doi:10.1056/NEJMoa1209759.
   * Negative trial. Double-blind, multi-center RCT of adult ICU patients using hydroxyethyl starch (HES) vs. normal saline for all fluid resuscitation. No difference in 90-day mortality (18% HES vs 17% control), with more renal injury and renal replacement therapy in the HES group. The death knell for HETAstarch.
 
@@ -375,6 +377,8 @@ keywords:
 
 * [2010. De Backer, Daniel, et al.](SOAP Norepi vs Dopamine in Septic Shock 2010.pdf) **“Comparison of Dopamine and Norepinephrine in the Treatment of Shock.”** _New England Journal of Medicine_, vol. 362, no. 9, Mar. 2010, pp. 779–89, doi:10.1056/NEJMoa0907118.
 
+* [2011. Maitland, Kathryn, et al.](FEAST 2011.pdf) **“Mortality after Fluid Bolus in African Children with Severe Infection.”** _New England Journal of Medicine_, vol. 364, no. 26, June 2011, pp. 2483–95, doi:10.1056/NEJMoa1101549.
+
 * [2012. Ranieri, V. Marco, et al.](PROWESS-SHOCK Activated Protein C 2012.pdf) **"Drotrecogin alfa (activated) in adults with septic shock."** _New England Journal of Medicine_, vol. 366, no. 22,  May 2012, pp. 2055-2064, doi:10.1056/NEJMoa1202290.
 
 * [2012. Myburgh, John A., et al.](CHEST Hetastarch 2012.pdf) **“Hydroxyethyl Starch or Saline for Fluid Resuscitation in Intensive Care.”** _New England Journal of Medicine_, vol. 367, no. 20, Nov. 2012, pp. 1901–11, doi:10.1056/NEJMoa1209759.
@@ -528,3 +532,4 @@ keywords:
 91. [1976. Webb, Herbert H., and Donald F. Tierney.](Webb Tierney Pulm Edema 1974.pdf) **"Experimental pulmonary edema due to intermittent positive pressure ventilation with high inflation pressures. Protection by positive end-expiratory pressure."** _American Review of Respiratory Disease_ 110.5 (1974): 556-565. DOI: 10.1164/arrd.1974.110.5.556.
 92. [1986. Gattinoni et al.](Gattinoni PEEP 1986.pdf) **"Morphological response to positive end expiratory pressure in acute respiratory failure. Computerized tomography study."** _Intensive Care Medicine_ 12 (1986): 137-142. DOI: 10.1007/BF00254928
 93. [2003. Bradley, Scott M., et al.](Glenn Hypoventilation 2003.pdf) **“Hypoventilation Improves Oxygenation after Bidirectional Superior Cavopulmonary Connection.”** _Journal of Thoracic and Cardiovascular Surgery_, vol. 126, no. 4, 2003, pp. 1033–39, doi:10.1016/S0022-5223(03)00203-4.
+94. [2011. Maitland, Kathryn, et al.](FEAST 2011.pdf) **“Mortality after Fluid Bolus in African Children with Severe Infection.”** _New England Journal of Medicine_, vol. 364, no. 26, June 2011, pp. 2483–95, doi:10.1056/NEJMoa1101549.
