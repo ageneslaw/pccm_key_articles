@@ -7,6 +7,10 @@ keywords:
 
 ## <a name='ARDSmechanicalventilationandlunginjury'></a>ARDS, mechanical ventilation, and lung injury
 
+* [1976. Webb, Herbert H., and Donald F. Tierney.](Webb Tierney Pulm Edema 1974.pdf) **"Experimental pulmonary edema due to intermittent positive pressure ventilation with high inflation pressures. Protection by positive end-expiratory pressure."** _American Review of Respiratory Disease_ 110.5 (1974): 556-565. DOI: 10.1164/arrd.1974.110.5.556.
+
+* [1986. Gattinoni et al.](Gattinoni PEEP 1986.pdf) **"Morphological response to positive end expiratory pressure in acute respiratory failure. Computerized tomography study."** _Intensive Care Medicine_ 12 (1986): 137-142. DOI: 10.1007/BF00254928
+
 * [1998. Meduri, G. Umberto, et al.](Meduri Steroids in ARDS 1998.pdf) **“Effect of Prolonged Methylprednisolone Therapy in Unresolving Acute Respiratory Distress Syndrome.”** _JAMA_, vol. 280, no. 2, July 1998, p. 159, doi:10.1001/jama.280.2.159.
   * Small, single center RCT of methylprednisolone in ARDS. Very controversial. Showed improvement in mortality, organ dysfunction scores, and successful extubation. Subsequent studies have failed to replicate this, and shown rebound worsening after steroids were stopped..
 
@@ -106,6 +110,8 @@ keywords:
 ---
 
 ## <a name='Cardiothoracicsurgery'></a>Cardiothoracic surgery
+
+* [2003. Bradley, Scott M., et al.](Glenn Hypoventilation 2003.pdf) **“Hypoventilation Improves Oxygenation after Bidirectional Superior Cavopulmonary Connection.”** _Journal of Thoracic and Cardiovascular Surgery_, vol. 126, no. 4, 2003, pp. 1033–39, doi:10.1016/S0022-5223(03)00203-4.
 
 * [2003. Hoffman, Timothy M., et al.](PRIMACORP Milrinone for low-cardic output syndrome 2003.pdf) **“Efficacy and Safety of Milrinone in Preventing Low Cardiac Output Syndrome in Infants and Children after Corrective Surgery for Congenital Heart Disease.”** _Circulation_, vol. 107, no. 7, 2003, pp. 996–1002, doi:10.1161/01.CIR.0000051365.81920.28.
   * The "PRIMACORP" (PRophylactic Intravenous use of Milrinone After Cardiac OpeRation in Pediatrics) trial. Double-blinded RCT of low- versus high-dose milrinone, compared to placebo. High dose milrinone significantly reduced the risk of low-cardiac output syndrome (29.5% placebo, 11.7% milrinone). The authors reported a relative risk reduction of 55% (and we can find an absolute risk reduction of 17.8%, for a NNT between 5 and 6 to prevent one case of low cardiac output syndrome). However, only 2 (of 242) patients died, and other long-term outcomes were not tracked, so the significance of preventing LCOS is not clear based upon this study.
@@ -519,3 +525,6 @@ keywords:
 88. [2021. Zampieri, Fernando G., et al.](BaSICS Fluid Rate 2021.pdf) **"Effect of Slower vs Faster Intravenous Fluid Bolus Rates on Mortality in Critically Ill Patients: The BaSICS Randomized Clinical Trial."** _JAMA_, vol. 326, no. 9, Sept. 2021, p. 830, doi:10.1001/jama.2021.11444.
 89. [2022. Stéphane Gaudry, Paul Palevsky, and Didier Dreyfuss.](NEJM Renal Replacement Therapy 2022.pdf) **“Extracorporeal Kidney-Replacement Therapy for Acute Kidney Injury.”** _NEJM_, vol. 386, no. 10, March. 2022, p. 964-975, doi: 10.1056/NEJMra2104090.
 90. [2021. Gaudry, Stéphane, et al.](AKIKI-2 Gaudry 2019.pdf) **“Comparison of Two Delayed Strategies for Renal Replacement Therapy Initiation for Severe Acute Kidney Injury (AKIKI 2): A Multicentre, Open-Label, Randomised, Controlled Trial.”** The Lancet, vol. 397, no. 10281, Elsevier Ltd, 2021, pp. 1293–300, doi:10.1016/S0140-6736(21)00350-0.
+91. [1976. Webb, Herbert H., and Donald F. Tierney.](Webb Tierney Pulm Edema 1974.pdf) **"Experimental pulmonary edema due to intermittent positive pressure ventilation with high inflation pressures. Protection by positive end-expiratory pressure."** _American Review of Respiratory Disease_ 110.5 (1974): 556-565. DOI: 10.1164/arrd.1974.110.5.556.
+92. [1986. Gattinoni et al.](Gattinoni PEEP 1986.pdf) **"Morphological response to positive end expiratory pressure in acute respiratory failure. Computerized tomography study."** _Intensive Care Medicine_ 12 (1986): 137-142. DOI: 10.1007/BF00254928
+93. [2003. Bradley, Scott M., et al.](Glenn Hypoventilation 2003.pdf) **“Hypoventilation Improves Oxygenation after Bidirectional Superior Cavopulmonary Connection.”** _Journal of Thoracic and Cardiovascular Surgery_, vol. 126, no. 4, 2003, pp. 1033–39, doi:10.1016/S0022-5223(03)00203-4.
