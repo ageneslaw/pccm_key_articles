@@ -335,6 +335,8 @@ keywords:
 
 * [2016. Fivez, Tom, et al.](PEPaNIC TPN Early vs Late 2016.pdf) **“Early versus Late Parenteral Nutrition in Critically Ill Children.”** _New England Journal of Medicine_, vol. 374, no. 12, 2016, pp. 1111–22, doi:10.1056/nejmoa1514762.
 
+* [2020. Srinivasan, Vijay, et al.](Early Enteral Nutrition 2020.pdf) **“Early Enteral Nutrition Is Associated With Improved Clinical Outcomes in Critically Ill Children.”** _Pediatric Critical Care Medicine_, vol. 21, no. 3, Mar. 2020, pp. 213–21, doi:10.1097/PCC.0000000000002135.
+
 ---
 
 ## <a name='Renalreplacementtherapy'></a>Renal replacement therapy
