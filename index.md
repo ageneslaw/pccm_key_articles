@@ -11,6 +11,10 @@ keywords:
 
 * [1986. Gattinoni et al.](Gattinoni PEEP 1986.pdf) **"Morphological response to positive end expiratory pressure in acute respiratory failure. Computerized tomography study."** _Intensive Care Medicine_ 12 (1986): 137-142. DOI: 10.1007/BF00254928
 
+* [1989. Hernandez, L. A., et al.](Hernandez Volutrauma 1989.pdf) **“Chest Wall Restriction Limits High Airway Pressure-Induced Lung Injury in Young Rabbits.”** _Journal of Applied Physiology_, vol. 66, no. 5, May 1989, pp. 2364–68, http://www.ncbi.nlm.nih.gov/pubmed/2745302.
+
+* [1994. Arnold, J. H., et al.](Arnold HFOV 1994.pdf) **“Prospective, Randomized Comparison of High-Frequency Oscillatory Ventilation and Conventional Mechanical Ventilation in Pediatric Respiratory Failure.”** _Critical Care Medicine_, vol. 22, no. 10, Oct. 1994, pp. 1530–39, http://www.ncbi.nlm.nih.gov/pubmed/7924362.
+
 * [1998. Meduri, G. Umberto, et al.](Meduri Steroids in ARDS 1998.pdf) **“Effect of Prolonged Methylprednisolone Therapy in Unresolving Acute Respiratory Distress Syndrome.”** _JAMA_, vol. 280, no. 2, July 1998, p. 159, doi:10.1001/jama.280.2.159.
   * Small, single center RCT of methylprednisolone in ARDS. Very controversial. Showed improvement in mortality, organ dysfunction scores, and successful extubation. Subsequent studies have failed to replicate this, and shown rebound worsening after steroids were stopped..
 
@@ -535,3 +539,6 @@ keywords:
 92. [1986. Gattinoni et al.](Gattinoni PEEP 1986.pdf) **"Morphological response to positive end expiratory pressure in acute respiratory failure. Computerized tomography study."** _Intensive Care Medicine_ 12 (1986): 137-142. DOI: 10.1007/BF00254928
 93. [2003. Bradley, Scott M., et al.](Glenn Hypoventilation 2003.pdf) **“Hypoventilation Improves Oxygenation after Bidirectional Superior Cavopulmonary Connection.”** _Journal of Thoracic and Cardiovascular Surgery_, vol. 126, no. 4, 2003, pp. 1033–39, doi:10.1016/S0022-5223(03)00203-4.
 94. [2011. Maitland, Kathryn, et al.](FEAST 2011.pdf) **“Mortality after Fluid Bolus in African Children with Severe Infection.”** _New England Journal of Medicine_, vol. 364, no. 26, June 2011, pp. 2483–95, doi:10.1056/NEJMoa1101549.
+95. [2020. Srinivasan, Vijay, et al.](Early Enteral Nutrition 2020.pdf) **“Early Enteral Nutrition Is Associated With Improved Clinical Outcomes in Critically Ill Children.”** _Pediatric Critical Care Medicine_, vol. 21, no. 3, Mar. 2020, pp. 213–21, doi:10.1097/PCC.0000000000002135.
+96. [1989. Hernandez, L. A., et al.](Hernandez Volutrauma 1989.pdf) **“Chest Wall Restriction Limits High Airway Pressure-Induced Lung Injury in Young Rabbits.”** _Journal of Applied Physiology_, vol. 66, no. 5, May 1989, pp. 2364–68, http://www.ncbi.nlm.nih.gov/pubmed/2745302.
+97. [1994. Arnold, J. H., et al.](Arnold HFOV 1994.pdf) **“Prospective, Randomized Comparison of High-Frequency Oscillatory Ventilation and Conventional Mechanical Ventilation in Pediatric Respiratory Failure.”** _Critical Care Medicine_, vol. 22, no. 10, Oct. 1994, pp. 1530–39, http://www.ncbi.nlm.nih.gov/pubmed/7924362.
